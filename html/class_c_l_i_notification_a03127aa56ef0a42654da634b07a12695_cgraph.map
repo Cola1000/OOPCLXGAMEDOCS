@@ -1,0 +1,9 @@
+<map id="CLINotification::Render" name="CLINotification::Render">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,164,83"/>
+<area shape="rect" id="Node000002" href="$class_message_queue.html#a2174faa031e933cdeca7a8641f714f9b" title=" " alt="" coords="222,5,424,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,53,241,33,243,38,151,58"/>
+<area shape="rect" id="Node000003" href="$class_message_queue.html#ab9c313e50f95c57fcd3d7388611f27a4" title=" " alt="" coords="238,56,408,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,67,222,67,222,72,164,72"/>
+<area shape="rect" id="Node000004" href="$class_message_queue.html#a9af42040455a09842b3ba96f85b56b58" title=" " alt="" coords="212,107,434,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,81,243,100,241,106,150,86"/>
+</map>

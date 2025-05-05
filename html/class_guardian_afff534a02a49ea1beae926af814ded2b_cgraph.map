@@ -1,0 +1,20 @@
+<map id="Guardian::Guardian" name="Guardian::Guardian">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,139,108"/>
+<area shape="rect" id="Node000002" href="$class_character.html#adc27bdd255876169bad2ed0bae0cffb5" title=" " alt="" coords="368,5,511,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,78,356,33,357,38,140,84"/>
+<area shape="rect" id="Node000004" href="$class_guardian.html#af7f4ab335effdb6a74e1db70bb7311cc" title=" " alt="" coords="187,107,320,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="139,101,172,106,171,111,138,107"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="559,5,637,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="512,16,544,16,544,21,512,21"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="271,104,313,74,367,42,379,36,382,41,369,46,316,78,274,108"/>
+<area shape="rect" id="Node000005" href="$class_unit.html#a9f10f01ffdca81a0ac5438b385719367" title=" " alt="" coords="385,56,494,83"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="305,103,373,85,374,90,306,109"/>
+<area shape="rect" id="Node000006" href="$class_unit.html#a451b46f4bcf822cce11b67c552d26e4b" title=" " alt="" coords="378,107,501,133"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="320,117,363,117,363,123,320,123"/>
+<area shape="rect" id="Node000007" href="$class_unit.html#a641d947f0637d019862d4a9a180c7342" title=" " alt="" coords="370,157,509,184"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="306,131,374,150,373,155,305,137"/>
+<area shape="rect" id="Node000008" href="$class_unit.html#a6099cc0e73effb7178e4f1989d61a22e" title=" " alt="" coords="386,208,494,235"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="274,132,316,162,369,194,382,199,379,204,367,198,313,166,271,136"/>
+<area shape="rect" id="Node000009" href="$class_unit.html#af58c727b7dce2ee9391b743df05c9639" title=" " alt="" coords="378,259,501,285"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="266,132,307,186,336,217,370,244,377,249,374,254,366,249,332,221,303,190,261,135"/>
+</map>

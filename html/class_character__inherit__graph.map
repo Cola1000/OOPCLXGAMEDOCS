@@ -1,0 +1,15 @@
+<map id="Character" name="Character">
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,80,282,107"/>
+<area shape="rect" id="Node000003" href="$class_assassin.html" title="A stealthy melee class with critical strike and evasion mechanics." alt="" coords="5,155,81,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,115,79,157,77,152,193,110"/>
+<area shape="rect" id="Node000004" href="$class_berserker.html" title=" " alt="" coords="104,155,182,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,118,162,156,159,152,212,114"/>
+<area shape="rect" id="Node000005" href="$class_guardian.html" title="Defensive tank class with chance to block incoming damage." alt="" coords="206,155,280,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="246,122,246,154,240,154,240,122"/>
+<area shape="rect" id="Node000006" href="$class_mage.html" title="Spellcaster with an additional archMana pool for ultimate skills." alt="" coords="304,155,358,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="272,115,318,152,314,156,268,119"/>
+<area shape="rect" id="Node000007" href="$class_necromancer.html" title=" " alt="" coords="381,155,481,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="291,110,399,152,397,157,289,115"/>
+<area shape="rect" id="Node000002" href="$class_unit.html" title=" " alt="" coords="220,5,266,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,48,246,80,240,80,240,48"/>
+</map>

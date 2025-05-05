@@ -1,0 +1,9 @@
+<map id="ShopGUI::ShopGUI" name="ShopGUI::ShopGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,143,83"/>
+<area shape="rect" id="Node000002" href="$class_base_g_u_i.html#a54bb382c28d7ceb6961c171fb922f1cb" title=" " alt="" coords="191,5,345,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,53,199,34,200,39,129,58"/>
+<area shape="rect" id="Node000003" href="$class_base_g_u_i.html#af1eb533bb3103b76c40a210c1f7a2eb1" title=" " alt="" coords="199,56,336,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,67,184,67,184,72,143,72"/>
+<area shape="rect" id="Node000004" href="$class_u_i_manager.html#a6000b3411cc27261d730c912fd6c58f7" title=" " alt="" coords="196,107,340,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="129,81,200,100,199,105,127,86"/>
+</map>

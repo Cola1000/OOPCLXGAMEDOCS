@@ -1,0 +1,5 @@
+<map id="Character::RemoveItemFromInventory" name="Character::RemoveItemFromInventory">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,5,350,48"/>
+<area shape="rect" id="Node000002" href="$class_shop.html#a9a4d1e0a45bbabe11bc77ecc100cd86d" title=" " alt="" coords="5,13,111,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,29,111,29,111,24,143,24"/>
+</map>

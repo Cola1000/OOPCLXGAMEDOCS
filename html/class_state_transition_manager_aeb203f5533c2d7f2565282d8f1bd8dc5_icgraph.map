@@ -1,0 +1,13 @@
+<map id="StateTransitionManager::ChangeState" name="StateTransitionManager::ChangeState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="440,73,599,116"/>
+<area shape="rect" id="Node000002" href="$class_battle_state.html#a68ed87d733f39d3f361e2aeb18aadf43" title=" " alt="" coords="232,5,357,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,70,391,47,353,35,354,30,393,41,455,65"/>
+<area shape="rect" id="Node000003" href="$class_home_base_state.html#ad771c1d02f4fb798bf041c7cb962a654" title=" " alt="" coords="216,56,372,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="425,87,373,81,373,75,425,81"/>
+<area shape="rect" id="Node000004" href="$class_main_menu_state.html#ae63c77ade8f884c7da276a35f2792697" title=" " alt="" coords="219,107,370,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="425,108,371,114,370,109,424,103"/>
+<area shape="rect" id="Node000005" href="$class_dungeon_state.html#a9b3fc837fbe7a65dc062484064cfafd6" title=" " alt="" coords="197,157,392,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="452,125,393,148,361,159,360,154,391,143,450,120"/>
+<area shape="rect" id="Node000006" href="$class_dungeon_state.html#a5012b8c493341a773d79b4ba25947289" title=" " alt="" coords="5,165,149,192"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="181,181,149,181,149,176,181,176"/>
+</map>

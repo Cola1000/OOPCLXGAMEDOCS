@@ -1,0 +1,5 @@
+<map id="EffectGroup::Contains" name="EffectGroup::Contains">
+<area shape="rect" id="Node000001" title="checks whether the group contains a certain effect" alt="" coords="209,5,359,32"/>
+<area shape="rect" id="Node000002" href="$class_effect_group.html#a328624d1697753cf01fd3387f4090947" title="adds an effect to the group" alt="" coords="5,5,161,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,21,161,21,161,16,193,16"/>
+</map>

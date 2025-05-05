@@ -1,0 +1,6 @@
+<map id="AtkDebuff::AtkDebuff" name="AtkDebuff::AtkDebuff">
+<area shape="rect" id="Node000001" title="default constructor" alt="" coords="252,29,397,56"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="362,16,349,10,324,8,301,10,289,15,286,20,292,27,287,30,281,21,285,11,300,5,324,3,350,5,364,12"/>
+<area shape="rect" id="Node000002" href="$class_atk_debuff.html#af7d3aee0b1d5226e932d443f0938cee3" title=" " alt="" coords="5,29,204,56"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="236,45,204,45,204,40,236,40"/>
+</map>

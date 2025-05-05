@@ -1,0 +1,11 @@
+<map id="src/UISystem/Components/CLI/CLIText.cpp" name="src/UISystem/Components/CLI/CLIText.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="97,5,277,48"/>
+<area shape="rect" id="Node000002" href="$_c_l_i_text_8hpp.html" title=" " alt="" coords="108,96,266,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,48,190,81,184,81,184,48"/>
+<area shape="rect" id="Node000003" href="$_u_i_element_8hpp.html" title=" " alt="" coords="5,187,209,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="168,141,132,177,128,174,165,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="233,187,304,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="210,137,247,174,243,177,206,141"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="80,261,134,288"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,214,110,246,104,246,104,214"/>
+</map>

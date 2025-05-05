@@ -1,0 +1,6 @@
+<map id="IntDebuff::CLONE_METHOD" name="IntDebuff::CLONE_METHOD">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,199,56"/>
+<area shape="rect" id="Node000002" href="$class_int_debuff.html#af86f7a281f4d681aef6d6837d7f58674" title="default constructor" alt="" coords="247,29,382,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,40,231,40,231,45,199,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="278,30,272,21,276,11,291,5,314,3,340,5,353,12,351,16,338,10,314,8,292,10,280,15,277,20,283,27"/>
+</map>

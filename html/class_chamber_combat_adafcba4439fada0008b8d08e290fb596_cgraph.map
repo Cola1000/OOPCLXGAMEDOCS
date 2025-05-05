@@ -1,0 +1,10 @@
+<map id="ChamberCombat::operator=" name="ChamberCombat::operator=">
+<area shape="rect" id="Node000001" title="Copy assignment operator." alt="" coords="5,31,189,57"/>
+<area shape="rect" id="Node000002" href="$class_chamber_combat.html#ac34b0392844321c19787fcb34e385f7b" title="Default constructor (Rank E)." alt="" coords="237,5,464,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,32,221,29,221,34,189,37"/>
+<area shape="rect" id="Node000004" href="$class_chamber.html#a6163a1bce8838d9fd85d9fe490ab194d" title="Copy assignment operator." alt="" coords="282,56,419,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="189,51,267,58,266,64,189,56"/>
+<area shape="rect" id="Node000003" href="$class_chamber.html#ab8391f7a39643a669b4d89fb7635538f" title="Default constructor." alt="" coords="512,31,647,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,29,497,32,496,38,464,34"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="419,59,496,50,497,56,419,64"/>
+</map>

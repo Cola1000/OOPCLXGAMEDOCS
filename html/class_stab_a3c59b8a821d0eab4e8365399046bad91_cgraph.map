@@ -1,0 +1,21 @@
+<map id="Stab::Activate" name="Stab::Activate">
+<area shape="rect" id="Node000001" title="activates the skill" alt="" coords="5,56,110,83"/>
+<area shape="rect" id="Node000002" href="$class_skill.html#a1c86b0fd8802b22ad41e161ee4b9c7af" title="gets the owner of the skill" alt="" coords="166,5,280,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,53,162,35,163,40,105,58"/>
+<area shape="rect" id="Node000003" href="$class_skill.html#a64ceb1531ec372146ee77f23305dcf81" title="gets the tier of the skill" alt="" coords="174,56,272,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,67,159,67,159,72,110,72"/>
+<area shape="rect" id="Node000004" href="$class_unit.html#a59d67d73af9f009652b706b9c2103eef" title=" " alt="" coords="158,107,288,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="105,81,163,99,162,104,103,86"/>
+<area shape="rect" id="Node000005" href="$class_unit.html#a8281a6dc8da932bf8b5a817016a53a1b" title=" " alt="" coords="336,56,493,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="276,103,346,85,347,90,277,109"/>
+<area shape="rect" id="Node000006" href="$class_unit.html#a8f5cdf29b6fa2fdd14b81febaa29ca5e" title=" " alt="" coords="336,107,493,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="288,117,321,117,321,123,288,123"/>
+<area shape="rect" id="Node000009" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="859,107,936,133"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="275,131,336,143,480,151,622,147,749,137,844,125,844,130,749,142,623,152,480,156,336,148,274,137"/>
+<area shape="rect" id="Node000007" href="$class_unit.html#a25f397a83d728389d66eb251eaec9f69" title=" " alt="" coords="541,56,756,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="479,103,568,84,569,89,480,109"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="493,117,844,117,844,123,493,123"/>
+<area shape="rect" id="Node000008" href="$class_unit.html#a680ab289c9cb28dd0cd8153b35f3c638" title=" " alt="" coords="804,56,992,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="756,67,788,67,788,72,756,72"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="718,81,844,107,843,112,717,86"/>
+</map>

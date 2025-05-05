@@ -1,0 +1,23 @@
+<map id="DungeonState::RegisterEventHandlers" name="DungeonState::RegisterEventHandlers">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,165,201,208"/>
+<area shape="rect" id="Node000002" href="$class_message_queue.html#a681e8709db345a2cf380c6faa61746bd" title=" " alt="" coords="249,5,445,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,163,173,106,209,75,247,48,274,35,276,40,250,53,212,80,177,110,124,167"/>
+<area shape="rect" id="Node000003" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="494,88,646,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,163,180,124,213,106,248,92,307,80,368,76,426,78,479,83,479,88,426,83,368,81,308,85,249,97,215,111,183,129,130,167"/>
+<area shape="rect" id="Node000004" href="$class_state_transition_manager.html#aeb203f5533c2d7f2565282d8f1bd8dc5" title=" " alt="" coords="267,107,426,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,162,251,148,252,153,195,167"/>
+<area shape="rect" id="Node000005" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="505,143,634,169"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="201,178,489,159,490,164,201,183"/>
+<area shape="rect" id="Node000006" href="$class_event_data.html#a64621a10aa4ca49ec9db2f62d7277f46" title=" " alt="" coords="272,224,422,251"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="202,204,265,218,264,223,200,210"/>
+<area shape="rect" id="Node000008" href="$class_message_queue.html#ab9c313e50f95c57fcd3d7388611f27a4" title=" " alt="" coords="262,275,432,301"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="141,206,192,234,250,260,270,267,268,272,248,265,189,239,139,211"/>
+<area shape="rect" id="Node000009" href="$class_event_subscriber.html#a9e3c1455d6b0a0998ac13be3cb06fab3" title=" " alt="" coords="255,325,438,352"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="125,207,178,259,212,287,250,311,263,317,261,322,247,316,209,292,174,263,121,210"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="427,116,477,110,478,115,427,121"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="427,135,490,143,489,149,427,141"/>
+<area shape="rect" id="Node000007" href="$class_event_data.html#a6452dcdc6dcdab27adf0848dc360d17e" title=" " alt="" coords="493,224,646,251"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="422,235,477,235,477,240,422,240"/>
+<area shape="rect" id="Node000010" href="$class_event_bus.html#a38ad05467fb8530f5324f9880e2e7d52" title=" " alt="" coords="498,325,642,352"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="439,336,482,336,482,341,439,341"/>
+</map>

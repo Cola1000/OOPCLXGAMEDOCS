@@ -1,0 +1,32 @@
+<map id="Unit::GetMaxHealth" name="Unit::GetMaxHealth">
+<area shape="rect" id="Node000001" title=" " alt="" coords="440,204,577,231"/>
+<area shape="rect" id="Node000002" href="$class_hunt.html#aff3f177c528fd3ef2a7c4b0cbc7b2c27" title="activates the hunt skill" alt="" coords="248,21,353,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,192,453,126,424,91,391,62,352,45,355,40,393,58,428,88,457,123,497,189"/>
+<area shape="rect" id="Node000003" href="$class_boss_mob.html#aa39cb6adc72ee281111e7444d5216046" title=" " alt="" coords="231,72,370,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="480,195,439,161,391,128,338,102,340,97,393,123,442,157,483,191"/>
+<area shape="rect" id="Node000006" href="$class_berserker.html#a27be68a067199020628470ec6713a739" title=" " alt="" coords="209,137,392,180"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="443,202,378,183,379,178,445,197"/>
+<area shape="rect" id="Node000008" href="$class_character.html#a2489bad18b533a6b8f5504376d24fab5" title=" " alt="" coords="233,233,368,260"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="425,232,368,240,368,235,424,226"/>
+<area shape="rect" id="Node000012" href="$class_guardian.html#acfd6532f70c8fabaf2d758dc29df79ea" title=" " alt="" coords="18,411,148,437"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="469,241,393,275,340,288,296,292,256,300,234,310,210,325,194,343,187,361,179,381,162,401,143,412,140,408,159,397,175,378,182,359,190,340,207,321,232,305,254,295,296,287,339,283,391,269,467,236"/>
+<area shape="rect" id="Node000015" href="$class_rage.html#a8712818502f502d14b376a749c541a7a" title="method that is called after the effect is applied" alt="" coords="245,335,356,361"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="486,244,445,282,393,318,352,336,350,332,391,314,441,277,482,240"/>
+<area shape="rect" id="Node000004" href="$class_boss_mob.html#ad53fac5f782d0132c70dcbb803f7a503" title=" " alt="" coords="13,5,153,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="232,70,208,63,160,47,125,35,127,30,162,41,209,57,234,65"/>
+<area shape="rect" id="Node000005" href="$class_boss_mob.html#a5286a25aca81ad877b40a94cff83533f" title=" " alt="" coords="13,56,153,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="216,82,153,77,153,72,216,76"/>
+<area shape="rect" id="Node000007" href="$class_berserker.html#a0f9510b8fda26857718a2c6a7d316359" title=" " alt="" coords="21,107,145,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="193,142,144,134,145,128,194,137"/>
+<area shape="rect" id="Node000009" href="$class_character.html#a33af7f16039e7a89def651dda375198d" title=" " alt="" coords="15,157,151,184"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="247,230,160,199,126,187,128,182,162,193,249,225"/>
+<area shape="rect" id="Node000010" href="$class_assassin.html#ac83e8ca13596fb1710612a01ae43cb1d" title=" " alt="" coords="17,208,149,235"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="218,240,149,232,149,226,218,234"/>
+<area shape="rect" id="Node000011" href="$class_berserker.html#a6ab30d3f36ab9f1e8d78ca2ef9debaaf" title=" " alt="" coords="16,259,150,285"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="218,259,151,267,150,262,217,254"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="225,269,211,281,199,295,192,309,187,339,183,370,175,385,162,401,145,412,142,408,159,397,171,382,177,368,182,338,187,308,194,292,207,277,222,265"/>
+<area shape="rect" id="Node000013" href="$class_mage.html#af1e1d91b96bb11a1a61cfb79548b3123" title=" " alt="" coords="28,309,138,336"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="246,268,210,281,162,300,129,311,127,306,160,295,208,276,244,263"/>
+<area shape="rect" id="Node000014" href="$class_necromancer.html#a79df642012608bcd15f7ac5d781ba2da" title=" " alt="" coords="5,360,161,387"/>
+<area shape="poly" id="edge13_Node000008_Node000014" title=" " alt="" coords="230,269,210,281,195,297,187,315,179,332,162,350,142,362,139,357,159,346,174,329,182,312,191,294,207,277,227,264"/>
+</map>

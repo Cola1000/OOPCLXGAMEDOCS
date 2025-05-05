@@ -1,0 +1,21 @@
+<map id="include/UISystem/Components/GUI/Base/GUIContainer.hpp" name="include/UISystem/Components/GUI/Base/GUIContainer.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="446,5,649,48"/>
+<area shape="rect" id="Node000002" href="$_base_g_u_i_8hpp.html" title=" " alt="" coords="335,96,538,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="511,60,464,97,461,93,508,56"/>
+<area shape="rect" id="Node000010" href="$_g_u_i_container_8cpp.html" title=" " alt="" coords="562,96,754,139"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="587,56,634,93,630,97,583,60"/>
+<area shape="rect" id="Node000003" href="$_g_u_i_2_main_menu_g_u_i_8hpp.html" title=" " alt="" coords="5,187,159,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,146,160,190,159,185,338,140"/>
+<area shape="rect" id="Node000004" href="$_profile_g_u_i_8hpp.html" title=" " alt="" coords="183,187,336,229"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="383,148,302,189,299,184,380,144"/>
+<area shape="rect" id="Node000005" href="$_shop_g_u_i_8hpp.html" title=" " alt="" coords="360,187,513,229"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="439,154,439,186,434,186,434,154"/>
+<area shape="rect" id="Node000006" href="$_views_2_g_u_i_2_main_menu_g_u_i_8hpp.html" title=" " alt="" coords="538,187,703,229"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="495,143,579,184,577,189,492,148"/>
+<area shape="rect" id="Node000009" href="$_base_g_u_i_8cpp.html" title=" " alt="" coords="728,187,908,229"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="541,140,729,183,728,189,540,145"/>
+<area shape="rect" id="Node000007" href="$_main_menu_view_8cpp.html" title=" " alt="" coords="438,277,611,320"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="589,242,549,279,545,275,585,238"/>
+<area shape="rect" id="Node000008" href="$_views_2_g_u_i_2_main_menu_g_u_i_8cpp.html" title=" " alt="" coords="636,277,798,320"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="656,238,696,275,693,279,652,242"/>
+</map>

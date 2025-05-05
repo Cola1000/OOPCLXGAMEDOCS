@@ -1,0 +1,9 @@
+<map id="ActionController::HandleActionSelected" name="ActionController::HandleActionSelected">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,169,99"/>
+<area shape="rect" id="Node000002" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="225,5,377,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,53,234,34,236,39,168,58"/>
+<area shape="rect" id="Node000003" href="$class_action_controller.html#a5a2c44627f3eb8e05d9950444f06d6b5" title=" " alt="" coords="217,56,385,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,75,201,75,201,80,169,80"/>
+<area shape="rect" id="Node000004" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="236,123,366,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,97,236,116,234,121,166,102"/>
+</map>

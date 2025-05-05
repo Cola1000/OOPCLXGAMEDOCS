@@ -1,0 +1,5 @@
+<map id="Dungeon::Dungeon" name="Dungeon::Dungeon">
+<area shape="rect" id="Node000001" title="Default constructor for the Dungeon class. Initializes the dungeon with default values." alt="" coords="190,5,323,32"/>
+<area shape="rect" id="Node000002" href="$class_dungeon.html#a5fbe17a6f9114582b5924606e617d5a6" title="Assignment operator to copy data from another dungeon." alt="" coords="5,5,142,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,21,142,21,142,16,174,16"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Armor::use" name="Armor::use">
+<area shape="rect" id="Node000001" title="Use method for the armor." alt="" coords="5,5,91,32"/>
+<area shape="rect" id="Node000002" href="$class_armor.html#a741b0780f7ec437c827e62514d8d6c52" title="Checks if the armor is usable." alt="" coords="139,5,254,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,16,123,16,123,21,91,21"/>
+</map>

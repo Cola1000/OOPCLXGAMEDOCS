@@ -1,0 +1,7 @@
+<map id="Item::operator=" name="Item::operator=">
+<area shape="rect" id="Node000001" title="Assignment operator." alt="" coords="185,31,295,57"/>
+<area shape="rect" id="Node000002" href="$class_armor.html#af869d62e397cf11428724787c3795de6" title="Assignment operator. Assigns the values from one Armor object to another." alt="" coords="11,5,131,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,36,130,30,131,25,169,31"/>
+<area shape="rect" id="Node000003" href="$class_weapon.html#a8f51ebd5789763dc5e9746ecccd4e34c" title="Assignment operator." alt="" coords="5,56,137,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,57,138,62,137,57,169,52"/>
+</map>

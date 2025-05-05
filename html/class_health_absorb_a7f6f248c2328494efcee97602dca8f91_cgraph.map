@@ -1,0 +1,8 @@
+<map id="HealthAbsorb::CLONE_METHOD" name="HealthAbsorb::CLONE_METHOD">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,21,160,64"/>
+<area shape="rect" id="Node000002" href="$class_health_absorb.html#a7349853ca9d79f13b74b77ddb59201cf" title=" " alt="" coords="208,29,395,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,40,192,40,192,45,160,45"/>
+<area shape="rect" id="Node000003" href="$class_effect.html#a4dae74244f59936a49847da9217b4126" title="default constructor for effect" alt="" coords="443,29,540,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,40,427,40,427,45,395,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="459,30,453,21,457,11,470,5,492,3,514,5,527,12,524,16,513,10,492,8,472,10,461,15,459,20,464,27"/>
+</map>

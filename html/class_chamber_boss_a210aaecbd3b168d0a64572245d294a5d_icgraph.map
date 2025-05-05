@@ -1,0 +1,5 @@
+<map id="ChamberBoss::generateItemBonus" name="ChamberBoss::generateItemBonus">
+<area shape="rect" id="Node000001" title="Add item bonus from possible drop items of defeated boss with certain drop rate chance." alt="" coords="253,5,441,48"/>
+<area shape="rect" id="Node000002" href="$class_chamber_boss.html#a36ccd7f5cb5602950a837da80c47b066" title="Ends the chamber and calculates results and rewards." alt="" coords="5,13,205,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,29,205,29,205,24,237,24"/>
+</map>

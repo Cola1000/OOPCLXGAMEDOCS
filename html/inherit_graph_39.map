@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_unit.html" title=" " alt="" coords="5,259,51,285"/>
+<area shape="rect" id="Node000001" href="$class_character.html" title=" " alt="" coords="115,132,194,159"/>
+<area shape="poly" id="edge116_Node000000_Node000001" title=" " alt="" coords="51,246,138,157,141,161,55,249"/>
+<area shape="rect" id="Node000007" href="$class_mob.html" title=" " alt="" coords="131,259,178,285"/>
+<area shape="poly" id="edge122_Node000000_Node000007" title=" " alt="" coords="66,269,131,269,131,275,66,275"/>
+<area shape="rect" id="Node000010" href="$class_summoned_unit.html" title="A temporary unit created by a Summoner, tied to its owner." alt="" coords="99,309,210,336"/>
+<area shape="poly" id="edge125_Node000000_Node000010" title=" " alt="" coords="66,284,120,306,118,311,64,289"/>
+<area shape="rect" id="Node000002" href="$class_assassin.html" title="A stealthy melee class with critical strike and evasion mechanics." alt="" coords="270,5,345,32"/>
+<area shape="poly" id="edge117_Node000001_Node000002" title=" " alt="" coords="175,119,211,81,256,42,275,30,278,35,260,46,215,84,179,122"/>
+<area shape="rect" id="Node000003" href="$class_berserker.html" title=" " alt="" coords="269,56,346,83"/>
+<area shape="poly" id="edge118_Node000001_Node000003" title=" " alt="" coords="196,122,278,81,280,86,198,127"/>
+<area shape="rect" id="Node000004" href="$class_guardian.html" title="Defensive tank class with chance to block incoming damage." alt="" coords="271,107,344,133"/>
+<area shape="poly" id="edge119_Node000001_Node000004" title=" " alt="" coords="209,134,270,123,271,129,210,139"/>
+<area shape="rect" id="Node000005" href="$class_mage.html" title="Spellcaster with an additional archMana pool for ultimate skills." alt="" coords="281,157,334,184"/>
+<area shape="poly" id="edge120_Node000001_Node000005" title=" " alt="" coords="210,152,281,164,280,169,209,157"/>
+<area shape="rect" id="Node000006" href="$class_necromancer.html" title=" " alt="" coords="258,208,357,235"/>
+<area shape="poly" id="edge121_Node000001_Node000006" title=" " alt="" coords="198,164,280,205,278,210,196,169"/>
+<area shape="rect" id="Node000008" href="$class_boss_mob.html" title=" " alt="" coords="270,259,346,285"/>
+<area shape="poly" id="edge123_Node000007_Node000008" title=" " alt="" coords="193,269,269,269,269,275,193,275"/>
+<area shape="rect" id="Node000009" href="$class_normal_mob.html" title=" " alt="" coords="264,309,352,336"/>
+<area shape="poly" id="edge124_Node000007_Node000009" title=" " alt="" coords="193,282,266,306,264,311,191,287"/>
+</map>

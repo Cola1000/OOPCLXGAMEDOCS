@@ -1,0 +1,7 @@
+<map id="EffectGroup::AddEffect" name="EffectGroup::AddEffect">
+<area shape="rect" id="Node000001" title="adds an effect to the group" alt="" coords="5,31,161,57"/>
+<area shape="rect" id="Node000002" href="$class_effect_group.html#abbdbcfa01ef78c31a188ba99356336cb" title="checks whether the group contains a certain effect" alt="" coords="209,5,359,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,32,193,27,193,33,161,37"/>
+<area shape="rect" id="Node000003" href="$class_effect.html#a93dc109b478778f3ee74bed22bb57d06" title="gets the id of the effect" alt="" coords="235,56,333,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,51,219,59,219,64,161,56"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="IntDebuff::OnRemove" name="IntDebuff::OnRemove">
+<area shape="rect" id="Node000001" title="removes the debuff" alt="" coords="5,31,154,57"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a7a847b1b46a01eedc0830fffdff460a9" title="gets the target of the effect" alt="" coords="211,5,332,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,32,195,26,196,31,154,37"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a641d947f0637d019862d4a9a180c7342" title=" " alt="" coords="202,56,341,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,51,187,55,186,61,154,56"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="Unit" name="Unit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="520,5,566,32"/>
+<area shape="rect" id="Node000002" href="$class_character.html" title=" " alt="" coords="248,80,326,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="506,33,327,83,326,78,505,28"/>
+<area shape="rect" id="Node000008" href="$class_mob.html" title=" " alt="" coords="520,80,566,107"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="546,48,546,80,540,80,540,48"/>
+<area shape="rect" id="Node000011" href="$class_summoned_unit.html" title="A temporary unit created by a Summoner, tied to its owner." alt="" coords="590,80,701,107"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="575,39,629,77,626,82,572,44"/>
+<area shape="rect" id="Node000003" href="$class_assassin.html" title="A stealthy melee class with critical strike and evasion mechanics." alt="" coords="5,155,81,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="234,113,82,158,80,153,232,108"/>
+<area shape="rect" id="Node000004" href="$class_berserker.html" title=" " alt="" coords="104,155,182,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="249,116,169,156,167,152,247,112"/>
+<area shape="rect" id="Node000005" href="$class_guardian.html" title="Defensive tank class with chance to block incoming damage." alt="" coords="206,155,280,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="274,122,253,156,248,153,269,119"/>
+<area shape="rect" id="Node000006" href="$class_mage.html" title="Spellcaster with an additional archMana pool for ultimate skills." alt="" coords="304,155,358,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="305,119,326,153,321,156,300,122"/>
+<area shape="rect" id="Node000007" href="$class_necromancer.html" title=" " alt="" coords="381,155,481,181"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="327,112,407,152,405,156,325,116"/>
+<area shape="rect" id="Node000009" href="$class_boss_mob.html" title=" " alt="" coords="505,155,581,181"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="546,122,546,154,540,154,540,122"/>
+<area shape="rect" id="Node000010" href="$class_normal_mob.html" title=" " alt="" coords="606,155,694,181"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="576,113,632,152,629,156,573,118"/>
+</map>

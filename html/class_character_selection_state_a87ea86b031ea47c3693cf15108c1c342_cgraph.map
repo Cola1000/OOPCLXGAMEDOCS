@@ -1,0 +1,7 @@
+<map id="CharacterSelectionState::CharacterSelectionState" name="CharacterSelectionState::CharacterSelectionState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,177,48"/>
+<area shape="rect" id="Node000002" href="$class_character_selection_state.html#a3413f41a2a285d4e7c8425d2206e7788" title=" " alt="" coords="225,5,396,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,24,209,24,209,29,177,29"/>
+<area shape="rect" id="Node000003" href="$class_game_state.html#a74c218c7a40b12a4ce443f15c8f0952e" title=" " alt="" coords="444,13,605,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,24,428,24,428,29,397,29"/>
+</map>

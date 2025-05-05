@@ -1,0 +1,9 @@
+<map id="CharacterSelectionCLI::UpdateFromModel" name="CharacterSelectionCLI::UpdateFromModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,159,115"/>
+<area shape="rect" id="Node000002" href="$class_character_selection_model.html#acdbf0514e8642ecdab47b19089f0472f" title=" " alt="" coords="207,5,374,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,69,206,51,208,56,151,74"/>
+<area shape="rect" id="Node000003" href="$class_character_selection_model.html#a6a0f67fc399155392e1b0a980597c19a" title=" " alt="" coords="207,72,374,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,91,191,91,191,96,159,96"/>
+<area shape="rect" id="Node000004" href="$class_character_selection_model.html#aa0ccdfca0d9f867769ae7026c0c5206d" title=" " alt="" coords="207,139,374,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,113,208,131,206,136,150,118"/>
+</map>

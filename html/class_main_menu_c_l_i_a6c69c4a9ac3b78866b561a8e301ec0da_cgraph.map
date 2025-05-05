@@ -1,0 +1,7 @@
+<map id="MainMenuCLI::UpdateFromModel" name="MainMenuCLI::UpdateFromModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,223,57"/>
+<area shape="rect" id="Node000002" href="$class_main_menu_model.html#a153ba1b74cd8d9f78456075c74955d0e" title=" " alt="" coords="271,5,493,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,31,255,28,255,33,223,36"/>
+<area shape="rect" id="Node000003" href="$class_main_menu_model.html#af869ca03abc2f876a3d091f6dbbaf97c" title=" " alt="" coords="297,56,467,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,52,282,57,281,63,223,57"/>
+</map>

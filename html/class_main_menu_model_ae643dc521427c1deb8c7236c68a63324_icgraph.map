@@ -1,0 +1,5 @@
+<map id="MainMenuModel::IsConfigDialogOpen" name="MainMenuModel::IsConfigDialogOpen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="274,5,515,32"/>
+<area shape="rect" id="Node000002" href="$class_main_menu_g_u_i.html#af84763e3c2af4b4ff1e448020ca3c8ba" title=" " alt="" coords="5,5,226,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,21,226,21,226,16,258,16"/>
+</map>

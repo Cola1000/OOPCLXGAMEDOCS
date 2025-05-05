@@ -1,0 +1,13 @@
+<map id="Regen::OnTurnStart" name="Regen::OnTurnStart">
+<area shape="rect" id="Node000001" title="applies heal on each turn" alt="" coords="5,56,144,83"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a7a847b1b46a01eedc0830fffdff460a9" title="gets the target of the effect" alt="" coords="198,5,318,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,53,191,34,193,39,126,58"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a5b293f43c693aa7dc8e7b0a933ddae73" title=" " alt="" coords="218,56,298,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,67,202,67,202,72,144,72"/>
+<area shape="rect" id="Node000004" href="$class_effect.html#ac6c3fb8a637e397a6fb3517393f2949d" title="notifies the event system that an effect was triggered" alt="" coords="192,107,324,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="126,81,193,99,191,105,125,86"/>
+<area shape="rect" id="Node000005" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="372,81,524,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="324,109,356,104,357,110,325,114"/>
+<area shape="rect" id="Node000006" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="384,132,513,159"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="325,126,368,132,368,137,324,131"/>
+</map>

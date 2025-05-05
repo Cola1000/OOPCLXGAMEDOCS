@@ -1,0 +1,7 @@
+<map id="DungeonPathCLI::HandleInput" name="DungeonPathCLI::HandleInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,205,57"/>
+<area shape="rect" id="Node000002" href="$class_input_handler.html#a01bcacc07a2d83be2c2eaf52b49dd38e" title=" " alt="" coords="266,5,420,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,31,250,26,251,31,205,36"/>
+<area shape="rect" id="Node000003" href="$class_input_handler.html#af0ba3bc2efdda9709c83898b02ff9c34" title=" " alt="" coords="253,56,433,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,52,237,55,237,61,205,57"/>
+</map>

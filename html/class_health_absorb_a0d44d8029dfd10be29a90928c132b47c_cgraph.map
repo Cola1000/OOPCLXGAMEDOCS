@@ -1,0 +1,13 @@
+<map id="HealthAbsorb::AbsorbHealth" name="HealthAbsorb::AbsorbHealth">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,193,83"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a7a847b1b46a01eedc0830fffdff460a9" title="gets the target of the effect" alt="" coords="247,5,367,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,53,234,34,235,39,158,58"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a5b293f43c693aa7dc8e7b0a933ddae73" title=" " alt="" coords="267,56,347,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,67,251,67,251,72,193,72"/>
+<area shape="rect" id="Node000004" href="$class_effect.html#ac6c3fb8a637e397a6fb3517393f2949d" title="notifies the event system that an effect was triggered" alt="" coords="241,107,373,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,81,235,100,234,105,156,86"/>
+<area shape="rect" id="Node000005" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="421,81,573,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="373,109,405,104,406,110,374,114"/>
+<area shape="rect" id="Node000006" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="432,132,562,159"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="374,126,417,132,417,137,373,131"/>
+</map>

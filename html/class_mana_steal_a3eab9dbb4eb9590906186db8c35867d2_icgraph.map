@@ -1,0 +1,6 @@
+<map id="ManaSteal::ManaSteal" name="ManaSteal::ManaSteal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="256,29,409,56"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="371,17,358,10,332,8,309,10,296,15,293,20,299,27,294,30,287,21,292,11,307,5,332,3,359,5,373,12"/>
+<area shape="rect" id="Node000002" href="$class_mana_steal.html#a247e37884a1bff1bf5fff96fb0f19605" title=" " alt="" coords="5,29,208,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,45,208,45,208,40,240,40"/>
+</map>

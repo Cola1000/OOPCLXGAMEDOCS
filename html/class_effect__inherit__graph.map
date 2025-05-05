@@ -1,0 +1,49 @@
+<map id="Effect" name="Effect">
+<area shape="rect" id="Node000001" title="Abstract class for in&#45;battle effects." alt="" coords="126,537,181,564"/>
+<area shape="rect" id="Node000003" href="$class_agi_buff.html" title="agility buff effect class" alt="" coords="252,5,315,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,522,158,418,169,276,179,203,191,137,207,82,227,42,249,25,252,30,231,46,212,84,197,138,184,204,175,276,163,418,158,522"/>
+<area shape="rect" id="Node000004" href="$class_agi_debuff.html" title="agility debuff effect class" alt="" coords="244,56,322,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,522,159,427,172,300,194,177,209,128,227,93,242,80,246,84,231,96,214,130,199,178,178,301,165,427,159,522"/>
+<area shape="rect" id="Node000005" href="$class_atk_buff.html" title="attack buff effect class" alt="" coords="251,107,315,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="154,522,161,437,175,325,197,217,211,174,227,144,249,127,252,131,231,147,215,176,202,218,181,326,167,437,159,522"/>
+<area shape="rect" id="Node000006" href="$class_atk_debuff.html" title="attack debuff effect class" alt="" coords="244,157,323,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="155,521,164,446,178,349,199,257,212,220,227,194,241,182,245,186,231,198,217,223,205,259,184,350,169,447,160,522"/>
+<area shape="rect" id="Node000007" href="$class_bleed.html" title="bleed effect class" alt="" coords="256,208,310,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="151,522,154,465,164,393,173,354,187,315,204,278,227,245,240,234,254,226,257,231,243,238,231,248,209,281,191,317,178,355,169,394,159,466,157,522"/>
+<area shape="rect" id="Node000008" href="$class_burn.html" title="Abstract class for in&#45;battle effects." alt="" coords="259,259,307,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="153,521,158,474,170,414,192,352,208,322,227,296,241,284,257,276,260,281,244,288,231,299,212,325,197,354,175,416,163,475,158,522"/>
+<area shape="rect" id="Node000009" href="$class_corroded.html" title="corroded effect applied by acidic corrosion" alt="" coords="246,309,320,336"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="156,522,163,483,176,437,197,389,227,346,244,333,247,337,231,350,202,392,181,439,168,485,161,523"/>
+<area shape="rect" id="Node000010" href="$class_counter_stance.html" title=" " alt="" coords="229,360,337,387"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="160,522,184,460,203,427,227,397,243,385,246,389,231,401,207,430,189,463,165,524"/>
+<area shape="rect" id="Node000011" href="$class_def_buff.html" title="defense buff effect class" alt="" coords="250,411,316,437"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="167,522,193,484,227,447,249,434,252,438,231,451,197,488,172,525"/>
+<area shape="rect" id="Node000012" href="$class_def_debuff.html" title="defense debuff effect class" alt="" coords="243,461,323,488"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="184,526,228,498,249,486,252,491,230,502,187,531"/>
+<area shape="rect" id="Node000013" href="$class_frozen.html" title=" " alt="" coords="252,512,314,539"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="196,540,252,529,253,534,197,545"/>
+<area shape="rect" id="Node000014" href="$class_health_absorb.html" title="absorbs health from a health drain effect" alt="" coords="233,563,333,589"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="197,556,233,564,232,569,196,562"/>
+<area shape="rect" id="Node000015" href="$class_health_drain.html" title="drains health from affected and gives it to the caster" alt="" coords="238,613,328,640"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="187,571,230,599,252,610,249,615,228,604,184,575"/>
+<area shape="rect" id="Node000016" href="$class_int_buff.html" title="intelligence buff effect class" alt="" coords="254,664,313,691"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="172,576,197,614,231,650,254,664,251,669,227,654,193,617,167,579"/>
+<area shape="rect" id="Node000017" href="$class_int_debuff.html" title="intelligence debuff effect class" alt="" coords="246,715,320,741"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="165,578,189,639,207,672,231,701,247,713,244,717,227,705,203,675,184,641,160,580"/>
+<area shape="rect" id="Node000018" href="$class_mana_absorb.html" title="absorbs mana from a mana drain effect" alt="" coords="236,765,330,792"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="161,579,168,617,181,662,202,710,231,752,245,763,242,767,227,755,197,712,176,664,163,618,156,580"/>
+<area shape="rect" id="Node000019" href="$class_mana_drain.html" title="drains mana from affected and gives it to the caster" alt="" coords="241,816,325,843"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="158,579,163,627,175,685,197,747,212,776,231,802,244,813,241,817,227,806,208,779,192,749,170,687,158,627,153,580"/>
+<area shape="rect" id="Node000020" href="$class_poison.html" title="poison effect class" alt="" coords="252,867,314,893"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="157,579,159,635,169,708,178,746,191,784,209,820,231,853,254,869,251,873,227,857,204,823,187,786,173,748,164,709,154,636,151,580"/>
+<area shape="rect" id="Node000021" href="$class_rage.html" title=" " alt="" coords="257,917,309,944"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="160,579,169,655,184,751,205,843,217,879,231,904,243,914,258,922,255,926,240,919,227,907,212,881,199,844,178,752,164,655,155,580"/>
+<area shape="rect" id="Node000022" href="$class_regen.html" title="regen effect class" alt="" coords="254,968,313,995"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="159,579,167,664,181,776,202,883,215,925,231,954,242,964,254,971,252,976,238,968,227,958,211,927,197,884,175,777,161,665,154,580"/>
+<area shape="rect" id="Node000023" href="$class_stun.html" title=" " alt="" coords="259,1019,307,1045"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="159,579,165,674,178,800,199,923,214,971,231,1005,244,1016,260,1024,257,1029,241,1021,227,1008,209,973,194,924,172,801,159,674,153,580"/>
+<area shape="rect" id="Node000024" href="$class_withered.html" title="withered effect applied by the withering touch skill" alt="" coords="246,1069,320,1096"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="158,579,163,683,175,825,184,897,197,963,212,1018,231,1056,248,1069,244,1073,227,1059,207,1020,191,964,179,898,169,826,158,684,153,580"/>
+<area shape="rect" id="Node000002" href="$class_clonable.html" title="abstract base class for clonable objects" alt="" coords="5,537,78,564"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,548,125,548,125,553,93,553"/>
+</map>

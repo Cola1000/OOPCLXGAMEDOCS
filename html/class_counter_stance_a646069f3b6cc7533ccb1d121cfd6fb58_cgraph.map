@@ -1,0 +1,27 @@
+<map id="CounterStance::AfterTakeDamage" name="CounterStance::AfterTakeDamage">
+<area shape="rect" id="Node000001" title="method that is called when the effect&#39;s target takes damage" alt="" coords="5,73,178,116"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a7a847b1b46a01eedc0830fffdff460a9" title="gets the target of the effect" alt="" coords="232,5,352,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,70,240,35,241,40,151,75"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a5ea3f54af571493f7889220724667189" title=" " alt="" coords="245,56,338,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,81,229,74,230,80,178,86"/>
+<area shape="rect" id="Node000004" href="$class_effect.html#ac6c3fb8a637e397a6fb3517393f2949d" title="notifies the event system that an effect was triggered" alt="" coords="226,107,358,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,103,211,107,210,112,177,108"/>
+<area shape="rect" id="Node000007" href="$class_unit.html#a59d67d73af9f009652b706b9c2103eef" title=" " alt="" coords="227,183,357,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="137,114,251,173,249,178,135,119"/>
+<area shape="rect" id="Node000005" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="408,56,561,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="345,103,416,85,417,90,346,109"/>
+<area shape="rect" id="Node000006" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="420,107,549,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="359,117,405,117,405,123,359,123"/>
+<area shape="rect" id="Node000008" href="$class_unit.html#a8281a6dc8da932bf8b5a817016a53a1b" title=" " alt="" coords="406,157,563,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="357,185,390,180,391,186,358,190"/>
+<area shape="rect" id="Node000009" href="$class_unit.html#a8f5cdf29b6fa2fdd14b81febaa29ca5e" title=" " alt="" coords="406,208,563,235"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="358,202,391,206,390,212,357,207"/>
+<area shape="rect" id="Node000012" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="929,208,1006,235"/>
+<area shape="poly" id="edge13_Node000007_Node000012" title=" " alt="" coords="318,208,358,228,407,244,477,255,549,261,621,262,691,259,817,246,913,230,914,235,818,251,691,264,621,267,548,266,476,261,405,249,356,233,315,212"/>
+<area shape="rect" id="Node000010" href="$class_unit.html#a25f397a83d728389d66eb251eaec9f69" title=" " alt="" coords="611,157,826,184"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="549,205,638,185,639,190,550,210"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="563,219,914,219,914,224,563,224"/>
+<area shape="rect" id="Node000011" href="$class_unit.html#a680ab289c9cb28dd0cd8153b35f3c638" title=" " alt="" coords="874,157,1062,184"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="826,168,858,168,858,173,826,173"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="788,182,914,208,913,213,787,187"/>
+</map>

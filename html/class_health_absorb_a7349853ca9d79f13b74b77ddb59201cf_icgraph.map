@@ -1,0 +1,7 @@
+<map id="HealthAbsorb::HealthAbsorb" name="HealthAbsorb::HealthAbsorb">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,43,428,69"/>
+<area shape="rect" id="Node000002" href="$class_health_absorb.html#a7f6f248c2328494efcee97602dca8f91" title=" " alt="" coords="22,5,176,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,45,176,39,177,34,225,40"/>
+<area shape="rect" id="Node000003" href="$class_health_absorb.html#ac6a514c9fd7329b72ff6a9879c87783b" title=" " alt="" coords="5,72,193,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,72,193,76,193,71,225,67"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Unit::GetManaRegen" name="Unit::GetManaRegen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="391,132,535,159"/>
+<area shape="rect" id="Node000002" href="$class_character.html#a2489bad18b533a6b8f5504376d24fab5" title=" " alt="" coords="209,132,343,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,148,344,148,344,143,375,143"/>
+<area shape="rect" id="Node000003" href="$class_character.html#a33af7f16039e7a89def651dda375198d" title=" " alt="" coords="15,5,151,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="251,123,210,84,159,46,135,35,137,30,162,42,214,80,254,119"/>
+<area shape="rect" id="Node000004" href="$class_assassin.html#ac83e8ca13596fb1710612a01ae43cb1d" title=" " alt="" coords="17,56,149,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="231,127,160,97,128,86,129,81,162,92,233,123"/>
+<area shape="rect" id="Node000005" href="$class_berserker.html#a6ab30d3f36ab9f1e8d78ca2ef9debaaf" title=" " alt="" coords="16,107,150,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="193,137,150,131,151,126,194,132"/>
+<area shape="rect" id="Node000006" href="$class_guardian.html#acfd6532f70c8fabaf2d758dc29df79ea" title=" " alt="" coords="18,157,148,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="194,159,149,165,148,160,193,153"/>
+<area shape="rect" id="Node000007" href="$class_mage.html#af1e1d91b96bb11a1a61cfb79548b3123" title=" " alt="" coords="28,208,138,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="233,168,162,198,129,210,128,205,160,194,231,163"/>
+<area shape="rect" id="Node000008" href="$class_necromancer.html#a79df642012608bcd15f7ac5d781ba2da" title=" " alt="" coords="5,259,161,285"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="254,172,214,211,162,249,137,260,135,256,159,244,210,207,251,168"/>
+</map>

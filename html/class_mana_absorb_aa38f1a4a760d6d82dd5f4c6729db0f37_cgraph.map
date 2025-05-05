@@ -1,0 +1,9 @@
+<map id="ManaAbsorb::ManaAbsorb" name="ManaAbsorb::ManaAbsorb">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,181,56"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a4dae74244f59936a49847da9217b4126" title="default constructor for effect" alt="" coords="452,29,549,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,40,437,40,437,45,181,45"/>
+<area shape="rect" id="Node000003" href="$class_mana_absorb.html#adcf62065bb2de9c516d97391cc2ab06e" title=" " alt="" coords="229,55,404,81"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="181,50,213,54,213,59,181,55"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="469,30,464,21,467,11,480,5,501,3,523,5,535,12,532,16,521,10,501,8,482,10,471,15,469,20,474,27"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="404,53,436,49,437,54,405,59"/>
+</map>

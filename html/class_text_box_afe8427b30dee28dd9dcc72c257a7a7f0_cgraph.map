@@ -1,0 +1,7 @@
+<map id="TextBox::TextBox" name="TextBox::TextBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,131,32"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_element.html#a3656ad55eb49df15dfbd11d78a3d7275" title=" " alt="" coords="179,5,352,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,16,163,16,163,21,131,21"/>
+<area shape="rect" id="Node000003" href="$class_u_i_element.html#a87675df35212845f56e0ec106f2ec79c" title=" " alt="" coords="400,5,553,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,16,385,16,385,21,352,21"/>
+</map>

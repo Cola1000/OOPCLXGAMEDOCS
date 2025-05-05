@@ -1,0 +1,13 @@
+<map id="AtkDebuff::OnApply" name="AtkDebuff::OnApply">
+<area shape="rect" id="Node000001" title="applies the debuff" alt="" coords="5,56,143,83"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a7a847b1b46a01eedc0830fffdff460a9" title="gets the target of the effect" alt="" coords="211,5,331,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,53,201,34,202,39,130,58"/>
+<area shape="rect" id="Node000003" href="$class_effect.html#ac6c3fb8a637e397a6fb3517393f2949d" title="notifies the event system that an effect was triggered" alt="" coords="205,56,337,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,67,189,67,189,72,143,72"/>
+<area shape="rect" id="Node000006" href="$class_unit.html#ad0e5052af50ccd57208bbe8e3dc55948" title=" " alt="" coords="191,107,351,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="130,81,202,100,201,105,128,86"/>
+<area shape="rect" id="Node000004" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="399,31,551,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="337,58,383,53,384,58,338,64"/>
+<area shape="rect" id="Node000005" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="410,81,540,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="338,75,395,82,395,87,337,80"/>
+</map>

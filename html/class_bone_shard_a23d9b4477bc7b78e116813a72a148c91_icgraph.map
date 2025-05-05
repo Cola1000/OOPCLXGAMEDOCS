@@ -1,0 +1,6 @@
+<map id="BoneShard::BoneShard" name="BoneShard::BoneShard">
+<area shape="rect" id="Node000001" title=" " alt="" coords="258,29,415,56"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="376,17,363,10,336,8,312,10,299,15,296,20,302,27,298,30,291,21,296,11,311,5,336,3,364,5,378,12"/>
+<area shape="rect" id="Node000002" href="$class_bone_shard.html#a679aff158358a967c8085f8b335b39b1" title=" " alt="" coords="5,29,210,56"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="242,45,210,45,210,40,242,40"/>
+</map>

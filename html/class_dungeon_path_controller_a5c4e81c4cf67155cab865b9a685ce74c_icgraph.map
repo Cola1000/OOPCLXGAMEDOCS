@@ -1,0 +1,5 @@
+<map id="DungeonPathController::HandleDoorSelected" name="DungeonPathController::HandleDoorSelected">
+<area shape="rect" id="Node000001" title=" " alt="" coords="218,5,374,48"/>
+<area shape="rect" id="Node000002" href="$class_dungeon_path_controller.html#a770cb630ce89a930470f5cc85b523a6e" title=" " alt="" coords="5,5,170,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,29,170,29,170,24,202,24"/>
+</map>

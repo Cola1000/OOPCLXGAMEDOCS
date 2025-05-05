@@ -1,0 +1,13 @@
+<map id="IntDebuff::OnApply" name="IntDebuff::OnApply">
+<area shape="rect" id="Node000001" title="applies the debuff" alt="" coords="5,56,138,83"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a7a847b1b46a01eedc0830fffdff460a9" title="gets the target of the effect" alt="" coords="195,5,316,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,53,189,34,190,39,124,58"/>
+<area shape="rect" id="Node000003" href="$class_effect.html#ac6c3fb8a637e397a6fb3517393f2949d" title="notifies the event system that an effect was triggered" alt="" coords="189,56,322,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,67,173,67,173,72,138,72"/>
+<area shape="rect" id="Node000006" href="$class_unit.html#a641d947f0637d019862d4a9a180c7342" title=" " alt="" coords="186,107,325,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="124,81,190,99,189,105,122,86"/>
+<area shape="rect" id="Node000004" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="373,31,525,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="322,58,357,53,358,59,322,63"/>
+<area shape="rect" id="Node000005" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="384,81,514,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="322,75,370,82,369,87,322,81"/>
+</map>

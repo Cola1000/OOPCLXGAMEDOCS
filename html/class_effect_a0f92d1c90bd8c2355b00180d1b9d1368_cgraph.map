@@ -1,0 +1,5 @@
+<map id="Effect::Refresh" name="Effect::Refresh">
+<area shape="rect" id="Node000001" title="refreshes the duration of the effect" alt="" coords="5,5,115,32"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a34c69ac137884c4592ac12d2476315b3" title="method that is called when an effect is refreshed" alt="" coords="163,5,289,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,16,147,16,147,21,115,21"/>
+</map>

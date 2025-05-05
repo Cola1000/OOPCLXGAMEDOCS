@@ -1,0 +1,9 @@
+<map id="HealthAbsorb::HealthAbsorb" name="HealthAbsorb::HealthAbsorb">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,193,56"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a4dae74244f59936a49847da9217b4126" title="default constructor for effect" alt="" coords="476,29,573,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,40,461,40,461,45,193,45"/>
+<area shape="rect" id="Node000003" href="$class_health_absorb.html#a7349853ca9d79f13b74b77ddb59201cf" title=" " alt="" coords="241,55,428,81"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="194,50,226,54,225,59,193,55"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="492,30,486,21,490,11,503,5,525,3,547,5,560,12,557,16,546,10,525,8,505,10,494,15,492,20,497,27"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="428,53,460,49,461,54,429,58"/>
+</map>

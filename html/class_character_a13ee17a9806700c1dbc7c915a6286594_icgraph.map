@@ -1,0 +1,7 @@
+<map id="Character::ApplyEffectOnAttack" name="Character::ApplyEffectOnAttack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="177,23,347,65"/>
+<area shape="rect" id="Node000002" href="$class_assassin.html#a2a7f139751cc4115d72244ba0f22da88" title=" " alt="" coords="6,5,128,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,34,128,29,129,24,161,28"/>
+<area shape="rect" id="Node000003" href="$class_berserker.html#a0f9510b8fda26857718a2c6a7d316359" title=" " alt="" coords="5,56,129,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,60,129,64,129,59,161,54"/>
+</map>

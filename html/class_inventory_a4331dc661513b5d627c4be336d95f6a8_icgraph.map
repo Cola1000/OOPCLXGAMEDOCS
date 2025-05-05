@@ -1,0 +1,5 @@
+<map id="Inventory::getAllItems" name="Inventory::getAllItems">
+<area shape="rect" id="Node000001" title=" " alt="" coords="199,5,348,32"/>
+<area shape="rect" id="Node000002" href="$class_save.html#a52e1eb7a319beb71ba0f2d497ba74422" title=" " alt="" coords="5,5,151,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,21,151,21,151,16,183,16"/>
+</map>

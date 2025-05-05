@@ -1,0 +1,15 @@
+<map id="Unit::CalculateHitPoints" name="Unit::CalculateHitPoints">
+<area shape="rect" id="Node000001" title=" " alt="" coords="497,81,659,108"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#a9981bed5ce46902c75942ea99e0d2151" title=" " alt="" coords="306,56,397,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="481,87,397,77,398,72,482,81"/>
+<area shape="rect" id="Node000005" href="$class_character.html#a9b6383fa6a8a32e8957bb7ecd21e7fc7" title=" " alt="" coords="254,107,449,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="482,108,450,112,449,106,481,103"/>
+<area shape="rect" id="Node000003" href="$class_summoned_unit.html#a03c4d0c8abcd4bd049fb1e9c51133e5a" title=" " alt="" coords="5,5,206,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="290,60,173,35,174,30,291,54"/>
+<area shape="rect" id="Node000004" href="$class_mob.html#a62f286abfaa9b38c0bc9300724af2547" title=" " alt="" coords="43,56,168,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="290,72,168,72,168,67,290,67"/>
+<area shape="rect" id="Node000006" href="$class_assassin.html#a2a7f139751cc4115d72244ba0f22da88" title=" " alt="" coords="45,107,166,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="238,123,167,123,167,117,238,117"/>
+<area shape="rect" id="Node000007" href="$class_berserker.html#a0f9510b8fda26857718a2c6a7d316359" title=" " alt="" coords="44,157,167,184"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="269,140,168,161,167,155,268,134"/>
+</map>

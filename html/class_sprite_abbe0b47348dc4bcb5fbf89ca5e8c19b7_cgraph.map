@@ -1,0 +1,9 @@
+<map id="Sprite::Sprite" name="Sprite::Sprite">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,103,57"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_element.html#a3656ad55eb49df15dfbd11d78a3d7275" title=" " alt="" coords="151,5,324,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,35,135,30,135,35,104,40"/>
+<area shape="rect" id="Node000004" href="$class_sprite.html#ac4be0919ab8859132d8ccec3123edbba" title=" " alt="" coords="175,56,300,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="104,48,160,56,159,61,103,53"/>
+<area shape="rect" id="Node000003" href="$class_u_i_element.html#a87675df35212845f56e0ec106f2ec79c" title=" " alt="" coords="372,5,525,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="324,16,357,16,357,21,324,21"/>
+</map>

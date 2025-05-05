@@ -1,0 +1,8 @@
+<map id="Necromancer::UseSkill" name="Necromancer::UseSkill">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,162,32"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="360,5,437,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,16,344,16,344,21,162,21"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#af18cc7ec3d698d67f9518ae3b08bd675" title=" " alt="" coords="210,31,312,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,27,195,32,194,37,162,32"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="312,32,344,26,345,31,313,37"/>
+</map>

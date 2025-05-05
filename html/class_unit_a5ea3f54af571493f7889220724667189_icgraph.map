@@ -1,0 +1,7 @@
+<map id="Unit::IsAlive" name="Unit::IsAlive">
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,43,320,69"/>
+<area shape="rect" id="Node000002" href="$class_counter_stance.html#a646069f3b6cc7533ccb1d121cfd6fb58" title="method that is called when the effect&#39;s target takes damage" alt="" coords="6,5,178,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,49,178,43,179,38,212,43"/>
+<area shape="rect" id="Node000003" href="$class_summoned_unit.html#aa4e0103b6c3f44fed0906c78e6107bfd" title=" " alt="" coords="5,72,179,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,69,179,74,178,69,211,63"/>
+</map>

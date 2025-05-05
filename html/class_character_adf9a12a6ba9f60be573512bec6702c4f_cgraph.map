@@ -1,0 +1,7 @@
+<map id="Character::ApplyEffectOnTurnStart" name="Character::ApplyEffectOnTurnStart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,176,48"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#ad9ad525a042b2b40b2e9338f93b12cb6" title=" " alt="" coords="224,13,415,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,24,208,24,208,29,176,29"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a680ab289c9cb28dd0cd8153b35f3c638" title=" " alt="" coords="463,13,651,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,24,447,24,447,29,416,29"/>
+</map>

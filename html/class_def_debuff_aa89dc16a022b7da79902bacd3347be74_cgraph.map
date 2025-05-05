@@ -1,0 +1,6 @@
+<map id="DefDebuff::CLONE_METHOD" name="DefDebuff::CLONE_METHOD">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,205,56"/>
+<area shape="rect" id="Node000002" href="$class_def_debuff.html#afa1e046330ae9cc5b5d8e11cc19002f9" title="default constructor" alt="" coords="253,29,400,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,40,238,40,238,45,205,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="289,30,282,21,287,11,302,5,326,3,353,5,367,12,364,16,351,10,326,8,303,10,290,15,288,20,293,27"/>
+</map>

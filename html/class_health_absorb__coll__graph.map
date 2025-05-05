@@ -1,0 +1,7 @@
+<map id="HealthAbsorb" name="HealthAbsorb">
+<area shape="rect" id="Node000001" title="absorbs health from a health drain effect" alt="" coords="5,155,106,181"/>
+<area shape="rect" id="Node000002" href="$class_effect.html" title="Abstract class for in&#45;battle effects." alt="" coords="28,80,83,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,122,58,154,53,154,53,122"/>
+<area shape="rect" id="Node000003" href="$class_clonable.html" title="abstract base class for clonable objects" alt="" coords="19,5,92,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="58,48,58,80,53,80,53,48"/>
+</map>

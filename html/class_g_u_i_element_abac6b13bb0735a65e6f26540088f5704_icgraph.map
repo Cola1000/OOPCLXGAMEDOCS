@@ -1,0 +1,9 @@
+<map id="GUIElement::isPointInside" name="GUIElement::isPointInside">
+<area shape="rect" id="Node000001" title=" " alt="" coords="433,31,609,57"/>
+<area shape="rect" id="Node000002" href="$class_button.html#a346c121ea62cebf10a2a24914a3aa2e4" title=" " alt="" coords="241,5,380,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="417,34,380,30,380,24,418,29"/>
+<area shape="rect" id="Node000004" href="$class_text_box.html#a30a3a9fab1f050325a02181281e3bac8" title=" " alt="" coords="236,56,385,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="418,59,386,63,385,58,417,54"/>
+<area shape="rect" id="Node000003" href="$class_texture_button.html#a63743c4b6d1f25c2c9a067bf1e625c1e" title=" " alt="" coords="5,5,188,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="225,21,188,21,188,16,225,16"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Unit::UseSkill" name="Unit::UseSkill">
+<area shape="rect" id="Node000001" title=" " alt="" coords="210,56,312,83"/>
+<area shape="rect" id="Node000002" href="$class_mob.html#a62f286abfaa9b38c0bc9300724af2547" title=" " alt="" coords="21,5,146,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,54,132,35,134,30,198,49"/>
+<area shape="rect" id="Node000003" href="$class_mage.html#aeb22d6a8571d46e82a407d43e4d3c0be" title=" " alt="" coords="28,56,139,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,72,139,72,139,67,195,67"/>
+<area shape="rect" id="Node000004" href="$class_necromancer.html#a7e6ba21eafda9270e244442bd79bc0a2" title=" " alt="" coords="5,107,162,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,90,134,109,132,104,196,85"/>
+</map>

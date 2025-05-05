@@ -1,0 +1,7 @@
+<map id="ChamberCombat::generateItemBonus" name="ChamberCombat::generateItemBonus">
+<area shape="rect" id="Node000001" title="Generates random item bonuses from mob after winning the chamber." alt="" coords="5,23,210,65"/>
+<area shape="rect" id="Node000002" href="$class_r_n_g.html#a838b355f126532ab640f1cf3f561bc42" title="Returns true with the given percentage chance." alt="" coords="273,5,374,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,29,257,24,258,29,210,35"/>
+<area shape="rect" id="Node000003" href="$class_chamber.html#ab53fa2722c5074604dc39298e07ef793" title="Gets the rank of the Chamber." alt="" coords="258,56,389,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,53,242,57,242,62,209,59"/>
+</map>

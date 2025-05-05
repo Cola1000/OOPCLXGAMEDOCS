@@ -1,0 +1,5 @@
+<map id="Mob::Mob" name="Mob::Mob">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,85,32"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="133,5,210,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,16,117,16,117,21,85,21"/>
+</map>

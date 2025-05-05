@@ -1,0 +1,7 @@
+<map id="Unit::ApplyEffectOnAttack" name="Unit::ApplyEffectOnAttack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,181,57"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#a680ab289c9cb28dd0cd8153b35f3c638" title=" " alt="" coords="229,5,417,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,32,213,28,213,33,181,37"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="284,56,362,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,51,269,61,269,66,181,56"/>
+</map>

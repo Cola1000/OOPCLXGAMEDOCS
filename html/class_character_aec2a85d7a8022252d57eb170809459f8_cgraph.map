@@ -1,0 +1,7 @@
+<map id="Character::SpendGold" name="Character::SpendGold">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,156,57"/>
+<area shape="rect" id="Node000002" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="204,5,356,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,32,188,28,189,33,157,37"/>
+<area shape="rect" id="Node000003" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="215,56,344,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,51,200,57,200,62,156,56"/>
+</map>

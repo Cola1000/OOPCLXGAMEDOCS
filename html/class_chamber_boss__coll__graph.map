@@ -1,0 +1,5 @@
+<map id="ChamberBoss" name="ChamberBoss">
+<area shape="rect" id="Node000001" title="Represents a boss chamber in a dungeon, handling boss fights and rewards." alt="" coords="5,80,110,107"/>
+<area shape="rect" id="Node000002" href="$class_chamber.html" title="Represents a single chamber in a dungeon, with difficulty rank and optional double dungeon status." alt="" coords="20,5,95,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,48,60,80,55,80,55,48"/>
+</map>

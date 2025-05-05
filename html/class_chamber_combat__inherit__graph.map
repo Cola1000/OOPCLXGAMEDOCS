@@ -1,0 +1,5 @@
+<map id="ChamberCombat" name="ChamberCombat">
+<area shape="rect" id="Node000001" title="Represents a combat&#45;focused chamber inside a dungeon." alt="" coords="5,80,126,107"/>
+<area shape="rect" id="Node000002" href="$class_chamber.html" title="Represents a single chamber in a dungeon, with difficulty rank and optional double dungeon status." alt="" coords="28,5,103,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,48,68,80,63,80,63,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Effect::OnTierChanged" name="Effect::OnTierChanged">
+<area shape="rect" id="Node000001" title="method to set the stats of the effect according to its tier" alt="" coords="159,31,313,57"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a3445ef537a989dcfb37c9f1465970b57" title="constructor for effect" alt="" coords="9,5,107,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,33,107,28,108,23,143,28"/>
+<area shape="rect" id="Node000003" href="$class_effect.html#a8f8cd883e7dba7217269009b88053a0e" title="sets the tier of the effect" alt="" coords="5,56,111,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,60,112,64,111,59,143,55"/>
+</map>

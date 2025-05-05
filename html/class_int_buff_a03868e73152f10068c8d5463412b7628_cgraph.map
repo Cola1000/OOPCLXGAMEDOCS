@@ -1,0 +1,13 @@
+<map id="IntBuff::OnApply" name="IntBuff::OnApply">
+<area shape="rect" id="Node000001" title="applies the buff" alt="" coords="5,56,123,83"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a7a847b1b46a01eedc0830fffdff460a9" title="gets the target of the effect" alt="" coords="180,5,300,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,53,176,34,177,39,114,58"/>
+<area shape="rect" id="Node000003" href="$class_effect.html#ac6c3fb8a637e397a6fb3517393f2949d" title="notifies the event system that an effect was triggered" alt="" coords="174,56,306,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,67,159,67,159,72,123,72"/>
+<area shape="rect" id="Node000006" href="$class_unit.html#a641d947f0637d019862d4a9a180c7342" title=" " alt="" coords="171,107,310,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="114,81,177,99,176,104,113,86"/>
+<area shape="rect" id="Node000004" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="358,31,510,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="307,58,342,53,343,59,307,63"/>
+<area shape="rect" id="Node000005" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="370,81,499,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="307,75,355,82,354,87,307,81"/>
+</map>

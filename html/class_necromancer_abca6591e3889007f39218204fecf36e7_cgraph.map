@@ -1,0 +1,20 @@
+<map id="Necromancer::Necromancer" name="Necromancer::Necromancer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,191,108"/>
+<area shape="rect" id="Node000002" href="$class_character.html#adc27bdd255876169bad2ed0bae0cffb5" title=" " alt="" coords="472,5,615,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,78,456,31,457,36,181,83"/>
+<area shape="rect" id="Node000004" href="$class_necromancer.html#a2d9f222048d7321295264900dd5879f9" title=" " alt="" coords="239,107,424,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,102,223,106,223,111,191,107"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="663,5,741,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="616,16,648,16,648,21,616,21"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="354,104,407,74,471,42,485,36,487,41,473,46,409,79,357,109"/>
+<area shape="rect" id="Node000005" href="$class_unit.html#a9f10f01ffdca81a0ac5438b385719367" title=" " alt="" coords="489,56,598,83"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="390,103,473,83,475,88,391,109"/>
+<area shape="rect" id="Node000006" href="$class_unit.html#a451b46f4bcf822cce11b67c552d26e4b" title=" " alt="" coords="482,107,605,133"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="425,117,467,117,467,123,425,123"/>
+<area shape="rect" id="Node000007" href="$class_unit.html#a641d947f0637d019862d4a9a180c7342" title=" " alt="" coords="474,157,613,184"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="391,131,470,151,469,156,390,137"/>
+<area shape="rect" id="Node000008" href="$class_unit.html#a6099cc0e73effb7178e4f1989d61a22e" title=" " alt="" coords="490,208,598,235"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="357,131,409,161,473,194,487,199,485,204,471,198,407,166,354,136"/>
+<area shape="rect" id="Node000009" href="$class_unit.html#af58c727b7dce2ee9391b743df05c9639" title=" " alt="" coords="482,259,605,285"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="346,132,398,186,434,217,473,244,483,250,480,254,471,249,431,221,395,190,342,136"/>
+</map>

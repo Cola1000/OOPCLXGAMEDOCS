@@ -1,0 +1,19 @@
+<map id="Rush::Activate" name="Rush::Activate">
+<area shape="rect" id="Node000001" title="activates the rush skill" alt="" coords="5,31,114,57"/>
+<area shape="rect" id="Node000002" href="$class_skill.html#a1c86b0fd8802b22ad41e161ee4b9c7af" title="gets the owner of the skill" alt="" coords="170,5,284,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,33,155,27,155,32,115,38"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a59d67d73af9f009652b706b9c2103eef" title=" " alt="" coords="162,56,292,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,50,147,55,146,60,114,55"/>
+<area shape="rect" id="Node000004" href="$class_unit.html#a8281a6dc8da932bf8b5a817016a53a1b" title=" " alt="" coords="340,5,497,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="280,53,350,34,351,39,281,58"/>
+<area shape="rect" id="Node000005" href="$class_unit.html#a8f5cdf29b6fa2fdd14b81febaa29ca5e" title=" " alt="" coords="340,56,497,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="292,67,325,67,325,72,292,72"/>
+<area shape="rect" id="Node000008" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="863,56,940,83"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="279,81,340,92,484,100,626,96,753,86,848,74,848,80,753,91,627,101,484,105,340,97,278,86"/>
+<area shape="rect" id="Node000006" href="$class_unit.html#a25f397a83d728389d66eb251eaec9f69" title=" " alt="" coords="545,5,760,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="483,53,572,33,573,38,484,58"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="497,67,848,67,848,72,497,72"/>
+<area shape="rect" id="Node000007" href="$class_unit.html#a680ab289c9cb28dd0cd8153b35f3c638" title=" " alt="" coords="808,5,996,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="760,16,792,16,792,21,760,21"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="722,30,848,56,847,61,721,35"/>
+</map>

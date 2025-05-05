@@ -1,0 +1,7 @@
+<map id="Effect::SetDuration" name="Effect::SetDuration">
+<area shape="rect" id="Node000001" title="sets the duration of the effect" alt="" coords="5,5,138,32"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a0f92d1c90bd8c2355b00180d1b9d1368" title="refreshes the duration of the effect" alt="" coords="186,5,295,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,16,170,16,170,21,138,21"/>
+<area shape="rect" id="Node000003" href="$class_effect.html#a34c69ac137884c4592ac12d2476315b3" title="method that is called when an effect is refreshed" alt="" coords="343,5,469,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,16,327,16,327,21,296,21"/>
+</map>

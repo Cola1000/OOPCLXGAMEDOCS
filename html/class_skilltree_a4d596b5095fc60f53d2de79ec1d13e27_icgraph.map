@@ -1,0 +1,9 @@
+<map id="Skilltree::Skilltree" name="Skilltree::Skilltree">
+<area shape="rect" id="Node000001" title="default constructor" alt="" coords="185,56,308,83"/>
+<area shape="rect" id="Node000002" href="$class_skilltree.html#adc5ba514467424a1e8b5f98ebc3a35a7" title="copy assignment (should not be invoked)" alt="" coords="5,5,137,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,54,119,35,121,30,183,48"/>
+<area shape="rect" id="Node000003" href="$class_skilltree.html#a9ddd7326d6f20b2a84e468f125da2cd0" title="copy constructor (should not be invoked)" alt="" coords="9,56,133,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,72,133,72,133,67,169,67"/>
+<area shape="rect" id="Node000004" href="$class_skilltree.html#a83ac438050e2552322d421e4c753fb34" title="destructor" alt="" coords="5,107,137,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,90,121,109,119,104,182,85"/>
+</map>

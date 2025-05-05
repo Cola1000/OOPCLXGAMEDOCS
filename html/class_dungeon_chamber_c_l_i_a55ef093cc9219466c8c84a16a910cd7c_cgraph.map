@@ -1,0 +1,7 @@
+<map id="DungeonChamberCLI::Render" name="DungeonChamberCLI::Render">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,161,65"/>
+<area shape="rect" id="Node000002" href="$class_u_i_manager.html#adf504d69ddf2e53adb13380750fcde29" title=" " alt="" coords="209,5,374,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,32,193,28,193,33,161,37"/>
+<area shape="rect" id="Node000003" href="$class_u_i_manager.html#a6000b3411cc27261d730c912fd6c58f7" title=" " alt="" coords="220,56,363,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,51,205,56,204,61,161,56"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="ActionController::HandleTargetSelected" name="ActionController::HandleTargetSelected">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,169,106"/>
+<area shape="rect" id="Node000002" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="472,38,602,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,60,163,35,216,15,271,5,314,3,413,15,481,30,480,36,413,21,314,9,271,10,217,21,165,40,121,65"/>
+<area shape="rect" id="Node000003" href="$class_action_controller.html#a06dc6aef193c560f805e5e121378c5cc" title=" " alt="" coords="230,30,400,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,70,214,63,215,69,169,75"/>
+<area shape="rect" id="Node000005" href="$class_action_controller.html#aaffdf750bd433e935e77db3bd3db6918" title=" " alt="" coords="217,163,413,190"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="126,104,169,127,218,149,238,156,237,161,216,154,167,132,124,109"/>
+<area shape="rect" id="Node000006" href="$class_action_controller.html#ad8ef198e45fdd90959b895185902c7ef" title=" " alt="" coords="230,97,400,139"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="169,94,215,101,214,106,169,99"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="400,49,457,49,457,54,400,54"/>
+<area shape="rect" id="Node000004" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="461,97,613,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="399,71,470,90,469,95,397,76"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="387,94,475,67,476,72,389,99"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="400,112,445,111,445,116,401,118"/>
+</map>

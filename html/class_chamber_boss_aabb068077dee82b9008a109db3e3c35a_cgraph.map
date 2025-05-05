@@ -1,0 +1,10 @@
+<map id="ChamberBoss::operator=" name="ChamberBoss::operator=">
+<area shape="rect" id="Node000001" title="Copy assignment operator." alt="" coords="5,31,173,57"/>
+<area shape="rect" id="Node000002" href="$class_chamber_boss.html#a0f28253852c9f2c2e1a74e538094c82d" title="Default constructor." alt="" coords="221,5,416,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,32,205,28,206,34,173,37"/>
+<area shape="rect" id="Node000004" href="$class_chamber.html#a6163a1bce8838d9fd85d9fe490ab194d" title="Copy assignment operator." alt="" coords="250,56,387,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,51,234,57,234,63,173,56"/>
+<area shape="rect" id="Node000003" href="$class_chamber.html#ab8391f7a39643a669b4d89fb7635538f" title="Default constructor." alt="" coords="464,31,599,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="417,28,449,32,448,37,416,33"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="387,59,448,51,449,57,388,64"/>
+</map>

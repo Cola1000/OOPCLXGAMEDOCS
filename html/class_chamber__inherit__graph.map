@@ -1,0 +1,13 @@
+<map id="Chamber" name="Chamber">
+<area shape="rect" id="Node000001" title="Represents a single chamber in a dungeon, with difficulty rank and optional double dungeon status." alt="" coords="290,5,364,32"/>
+<area shape="rect" id="Node000002" href="$class_chamber_boss.html" title="Represents a boss chamber in a dungeon, handling boss fights and rewards." alt="" coords="5,80,110,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,36,105,82,104,77,274,31"/>
+<area shape="rect" id="Node000003" href="$class_chamber_chest.html" title="Represents a chest chamber that provides random rewards to the player." alt="" coords="134,80,243,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="290,42,214,82,211,77,288,37"/>
+<area shape="rect" id="Node000004" href="$class_chamber_combat.html" title="Represents a combat&#45;focused chamber inside a dungeon." alt="" coords="267,80,387,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="330,48,330,80,324,80,324,48"/>
+<area shape="rect" id="Node000005" href="$class_chamber_heal.html" title="Represents a healing chamber that provides HP restoration to the player." alt="" coords="411,80,512,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="365,37,439,77,437,82,362,42"/>
+<area shape="rect" id="Node000006" href="$class_chamber_shop.html" title="Represents a shop chamber where players can purchase items or services." alt="" coords="536,80,640,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="380,32,543,77,542,82,378,37"/>
+</map>

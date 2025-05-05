@@ -1,0 +1,13 @@
+<map id="ManaAbsorb::AbsorbMana" name="ManaAbsorb::AbsorbMana">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,181,83"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a7a847b1b46a01eedc0830fffdff460a9" title="gets the target of the effect" alt="" coords="243,5,363,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,53,229,34,230,39,152,58"/>
+<area shape="rect" id="Node000003" href="$class_effect.html#ac6c3fb8a637e397a6fb3517393f2949d" title="notifies the event system that an effect was triggered" alt="" coords="237,56,369,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,67,221,67,221,72,181,72"/>
+<area shape="rect" id="Node000006" href="$class_unit.html#ae1c3322365fce9a04ddd703347e491b5" title=" " alt="" coords="229,107,377,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="152,81,230,100,229,105,151,86"/>
+<area shape="rect" id="Node000004" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="425,31,577,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="369,58,409,53,410,58,370,64"/>
+<area shape="rect" id="Node000005" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="436,81,566,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="370,75,422,82,421,87,369,80"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="InventoryGUI::InventoryGUI" name="InventoryGUI::InventoryGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,191,32"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_element.html#a3656ad55eb49df15dfbd11d78a3d7275" title=" " alt="" coords="239,5,412,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,16,223,16,223,21,191,21"/>
+<area shape="rect" id="Node000003" href="$class_u_i_element.html#a87675df35212845f56e0ec106f2ec79c" title=" " alt="" coords="460,5,613,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,16,445,16,445,21,412,21"/>
+</map>

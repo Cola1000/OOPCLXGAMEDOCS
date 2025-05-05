@@ -1,0 +1,11 @@
+<map id="Skill::GetID" name="Skill::GetID">
+<area shape="rect" id="Node000001" title="gets the id of the skill" alt="" coords="178,81,267,108"/>
+<area shape="rect" id="Node000002" href="$class_skilltree.html#a8fce858f552d85115e6475b17a18e9a6" title="adds a skill to the skill tree" alt="" coords="5,5,130,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,76,128,46,103,35,105,30,131,42,186,71"/>
+<area shape="rect" id="Node000003" href="$class_skill.html#a27a815639d39c55ab00110720d69676b" title=" " alt="" coords="13,56,122,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,88,122,81,123,76,163,82"/>
+<area shape="rect" id="Node000004" href="$class_skill.html#a4dfcebf5410d5814900fb62c7bc997fd" title=" " alt="" coords="9,107,126,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,107,127,113,126,108,162,102"/>
+<area shape="rect" id="Node000005" href="$class_skill.html#a358f92b09e13345dc98efabdfe38905d" title=" " alt="" coords="13,157,122,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="186,118,131,148,105,159,103,154,128,143,183,114"/>
+</map>

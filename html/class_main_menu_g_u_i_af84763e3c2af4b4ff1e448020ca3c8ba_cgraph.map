@@ -1,0 +1,9 @@
+<map id="MainMenuGUI::UpdateFromModel" name="MainMenuGUI::UpdateFromModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,226,83"/>
+<area shape="rect" id="Node000002" href="$class_main_menu_model.html#a153ba1b74cd8d9f78456075c74955d0e" title=" " alt="" coords="283,5,506,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,53,302,33,303,38,194,58"/>
+<area shape="rect" id="Node000003" href="$class_main_menu_model.html#af869ca03abc2f876a3d091f6dbbaf97c" title=" " alt="" coords="309,56,480,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,67,294,67,294,72,226,72"/>
+<area shape="rect" id="Node000004" href="$class_main_menu_model.html#ae643dc521427c1deb8c7236c68a63324" title=" " alt="" coords="274,107,515,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,81,303,101,302,106,193,86"/>
+</map>

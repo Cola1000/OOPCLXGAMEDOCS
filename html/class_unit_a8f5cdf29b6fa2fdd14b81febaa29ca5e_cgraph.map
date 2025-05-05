@@ -1,0 +1,10 @@
+<map id="Unit::TakeTrueDamage" name="Unit::TakeTrueDamage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,162,57"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#a25f397a83d728389d66eb251eaec9f69" title=" " alt="" coords="210,5,424,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,33,194,29,194,35,163,38"/>
+<area shape="rect" id="Node000004" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="528,56,605,83"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="162,45,512,64,512,69,162,51"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a680ab289c9cb28dd0cd8153b35f3c638" title=" " alt="" coords="472,5,660,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="425,16,456,16,456,21,425,21"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="387,30,512,56,511,61,386,35"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Save::saveEquipment" name="Save::saveEquipment">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,155,32"/>
+<area shape="rect" id="Node000002" href="$class_equipment.html#a333cf6fd0b95d506e70194af4475e403" title=" " alt="" coords="203,5,392,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,16,187,16,187,21,155,21"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Berserker::CalculateCurrentRageMultiplier" name="Berserker::CalculateCurrentRageMultiplier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,189,65"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#aba5317b8f805b106391d58fa7720ff5d" title=" " alt="" coords="237,5,392,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,31,221,27,222,32,189,36"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a468c3ca5d662463baa655e65675b4075" title=" " alt="" coords="246,56,383,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,52,231,57,230,62,188,57"/>
+</map>

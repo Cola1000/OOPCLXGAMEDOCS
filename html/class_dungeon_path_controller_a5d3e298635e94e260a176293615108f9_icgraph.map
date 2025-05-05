@@ -1,0 +1,10 @@
+<map id="DungeonPathController::OnChamberCompleted" name="DungeonPathController::OnChamberCompleted">
+<area shape="rect" id="Node000001" title=" " alt="" coords="686,35,849,77"/>
+<area shape="rect" id="Node000002" href="$class_dungeon_path_controller.html#a1319b54b75cd72a6465f37c47b3f72d6" title=" " alt="" coords="430,5,638,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="671,47,639,42,639,37,672,41"/>
+<area shape="rect" id="Node000003" href="$class_dungeon_path_controller.html#aa0fa9d9a634a230eea9e6daa97a849a4" title=" " alt="" coords="218,35,382,77"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="671,62,638,63,430,63,383,62,383,56,430,57,638,57,670,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,44,383,48,382,43,414,39"/>
+<area shape="rect" id="Node000004" href="$class_dungeon_path_controller.html#a770cb630ce89a930470f5cc85b523a6e" title=" " alt="" coords="5,35,170,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="202,59,170,59,170,53,202,53"/>
+</map>

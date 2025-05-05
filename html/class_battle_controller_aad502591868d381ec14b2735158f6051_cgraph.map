@@ -1,0 +1,11 @@
+<map id="BattleController::RegisterEventHandlers" name="BattleController::RegisterEventHandlers">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,174,65"/>
+<area shape="rect" id="Node000002" href="$class_event_data.html#a64621a10aa4ca49ec9db2f62d7277f46" title=" " alt="" coords="238,5,388,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,32,222,26,223,32,174,37"/>
+<area shape="rect" id="Node000004" href="$class_event_subscriber.html#a9e3c1455d6b0a0998ac13be3cb06fab3" title=" " alt="" coords="222,56,405,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,51,206,55,206,60,174,56"/>
+<area shape="rect" id="Node000003" href="$class_event_data.html#a6452dcdc6dcdab27adf0848dc360d17e" title=" " alt="" coords="453,5,606,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,16,437,16,437,21,389,21"/>
+<area shape="rect" id="Node000005" href="$class_event_bus.html#a38ad05467fb8530f5324f9880e2e7d52" title=" " alt="" coords="458,56,602,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="405,67,442,67,442,72,405,72"/>
+</map>

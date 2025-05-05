@@ -1,0 +1,5 @@
+<map id="Effect::OnApply" name="Effect::OnApply">
+<area shape="rect" id="Node000001" title="method that is called after the effect is applied" alt="" coords="150,5,263,32"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a38e16d7162af285366715b39d46da35c" title="set the target for this effect" alt="" coords="5,5,102,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,21,102,21,102,16,134,16"/>
+</map>

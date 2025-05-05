@@ -1,0 +1,7 @@
+<map id="Unit::ApplyEffectOnTurnEnd" name="Unit::ApplyEffectOnTurnEnd">
+<area shape="rect" id="Node000001" title=" " alt="" coords="259,43,445,69"/>
+<area shape="rect" id="Node000002" href="$class_character.html#aee77f8a7f18bb6bfb0f1729db7b608f1" title=" " alt="" coords="23,5,193,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,46,193,40,194,34,243,40"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a14ff4ff46a4a983cdc472ce72272e9af" title=" " alt="" coords="5,72,211,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,72,211,76,211,70,243,66"/>
+</map>

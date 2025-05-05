@@ -1,0 +1,5 @@
+<map id="Effect::Refresh" name="Effect::Refresh">
+<area shape="rect" id="Node000001" title="refreshes the duration of the effect" alt="" coords="186,5,295,32"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a613412575e494fca77a2ee64ba7b0d45" title="sets the duration of the effect" alt="" coords="5,5,138,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,21,138,21,138,16,170,16"/>
+</map>

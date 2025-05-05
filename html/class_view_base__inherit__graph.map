@@ -1,0 +1,29 @@
+<map id="ViewBase" name="ViewBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,132,86,159"/>
+<area shape="rect" id="Node000002" href="$class_battle_view.html" title="Interface for battle view implementations." alt="" coords="172,5,256,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,117,91,78,132,42,170,25,173,30,135,46,95,82,66,120"/>
+<area shape="rect" id="Node000004" href="$class_character_selection_view.html" title=" " alt="" coords="134,56,295,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="79,121,133,92,163,81,165,86,135,97,82,126"/>
+<area shape="rect" id="Node000006" href="$class_dungeon_chamber_view.html" title=" " alt="" coords="137,107,292,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="101,134,136,129,136,134,102,140"/>
+<area shape="rect" id="Node000008" href="$class_dungeon_path_view.html" title=" " alt="" coords="150,157,279,184"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="101,151,150,158,149,164,101,156"/>
+<area shape="rect" id="Node000010" href="$class_home_base_view.html" title=" " alt="" coords="157,208,272,235"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="82,165,135,194,165,205,163,210,133,198,79,170"/>
+<area shape="rect" id="Node000012" href="$class_main_menu_view.html" title=" " alt="" coords="159,259,270,285"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="66,170,95,209,135,244,160,257,157,261,132,249,91,212,61,174"/>
+<area shape="rect" id="Node000003" href="$class_battle_c_l_i.html" title=" " alt="" coords="382,5,458,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,16,381,16,381,21,272,21"/>
+<area shape="rect" id="Node000005" href="$class_character_selection_c_l_i.html" title=" " alt="" coords="343,56,496,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="310,67,342,67,342,72,310,72"/>
+<area shape="rect" id="Node000007" href="$class_dungeon_chamber_c_l_i.html" title=" " alt="" coords="346,107,493,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="307,117,346,117,346,123,307,123"/>
+<area shape="rect" id="Node000009" href="$class_dungeon_path_c_l_i.html" title="CLI implementation of door choice view." alt="" coords="359,157,480,184"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="294,168,358,168,358,173,294,173"/>
+<area shape="rect" id="Node000011" href="$class_home_base_c_l_i.html" title=" " alt="" coords="366,208,473,235"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="288,219,366,219,366,224,288,224"/>
+<area shape="rect" id="Node000013" href="$class_main_menu_c_l_i.html" title=" " alt="" coords="368,259,471,285"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="285,269,368,269,368,275,285,275"/>
+<area shape="rect" id="Node000014" href="$class_main_menu_g_u_i.html" title=" " alt="" coords="367,309,472,336"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="285,287,367,307,366,312,284,292"/>
+</map>

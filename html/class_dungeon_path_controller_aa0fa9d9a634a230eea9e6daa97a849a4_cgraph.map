@@ -1,0 +1,14 @@
+<map id="DungeonPathController::RegisterEventHandlers" name="DungeonPathController::RegisterEventHandlers">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,170,77"/>
+<area shape="rect" id="Node000002" href="$class_dungeon_path_controller.html#a5d3e298635e94e260a176293615108f9" title=" " alt="" coords="474,5,636,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,31,217,20,280,14,343,13,458,16,458,21,343,18,280,20,218,25,161,37"/>
+<area shape="rect" id="Node000004" href="$class_dungeon_path_controller.html#a1319b54b75cd72a6465f37c47b3f72d6" title=" " alt="" coords="218,35,426,77"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,53,202,53,202,59,170,59"/>
+<area shape="rect" id="Node000005" href="$class_event_subscriber.html#a9e3c1455d6b0a0998ac13be3cb06fab3" title=" " alt="" coords="230,101,414,128"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="171,75,218,87,249,95,248,100,217,92,170,80"/>
+<area shape="rect" id="Node000003" href="$class_dungeon_path_controller.html#a901ea419b51e27b94b0303040366ad83" title=" " alt="" coords="684,5,843,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="637,24,669,24,669,29,637,29"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="426,40,458,36,459,41,427,46"/>
+<area shape="rect" id="Node000006" href="$class_event_bus.html#a38ad05467fb8530f5324f9880e2e7d52" title=" " alt="" coords="483,101,627,128"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="414,112,467,112,467,117,414,117"/>
+</map>

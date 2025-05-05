@@ -1,0 +1,7 @@
+<map id="Unit::ProcessStartOfTurnEffects" name="Unit::ProcessStartOfTurnEffects">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,175,48"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#ad9ad525a042b2b40b2e9338f93b12cb6" title=" " alt="" coords="223,13,414,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,24,207,24,207,29,175,29"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a680ab289c9cb28dd0cd8153b35f3c638" title=" " alt="" coords="462,13,650,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,24,446,24,446,29,415,29"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ChamberChest::generateRandomReward" name="ChamberChest::generateRandomReward">
+<area shape="rect" id="Node000001" title="Calculates and applies random gold rewards based on rank. Has a 20% chance to yield no reward." alt="" coords="5,5,222,48"/>
+<area shape="rect" id="Node000002" href="$class_chamber.html#ab53fa2722c5074604dc39298e07ef793" title="Gets the rank of the Chamber." alt="" coords="270,13,401,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,24,254,24,254,29,222,29"/>
+</map>

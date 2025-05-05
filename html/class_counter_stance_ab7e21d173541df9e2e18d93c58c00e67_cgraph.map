@@ -1,0 +1,6 @@
+<map id="CounterStance::CounterStance" name="CounterStance::CounterStance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,209,56"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a4dae74244f59936a49847da9217b4126" title="default constructor for effect" alt="" coords="257,29,354,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,40,241,40,241,45,209,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="272,30,266,21,270,11,283,5,305,3,329,5,342,12,339,16,327,10,305,8,285,10,273,15,271,20,276,27"/>
+</map>

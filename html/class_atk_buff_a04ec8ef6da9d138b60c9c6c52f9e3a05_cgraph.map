@@ -1,0 +1,6 @@
+<map id="AtkBuff::AtkBuff" name="AtkBuff::AtkBuff">
+<area shape="rect" id="Node000001" title="constructor" alt="" coords="5,29,121,56"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a4dae74244f59936a49847da9217b4126" title="default constructor for effect" alt="" coords="169,29,266,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,40,153,40,153,45,121,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="190,30,186,21,189,11,200,5,217,3,236,5,246,12,243,16,234,10,217,8,202,10,193,15,191,20,195,28"/>
+</map>

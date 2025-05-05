@@ -1,0 +1,9 @@
+<map id="DungeonPathCLI::UpdateFromModel" name="DungeonPathCLI::UpdateFromModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,207,115"/>
+<area shape="rect" id="Node000002" href="$class_dungeon_path_model.html#a15f90cf6069a2693b3b6391cbfa066ac" title=" " alt="" coords="272,5,464,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,69,266,50,268,55,193,74"/>
+<area shape="rect" id="Node000003" href="$class_dungeon_path_model.html#a928a02f9a97759e9743dda0d807e07b6" title=" " alt="" coords="272,72,464,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,91,257,91,257,96,207,96"/>
+<area shape="rect" id="Node000004" href="$class_dungeon_path_model.html#a7341ac1c0f66995edb6b93a285d5e2c5" title=" " alt="" coords="255,139,482,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,113,255,124,291,132,290,137,254,129,204,118"/>
+</map>

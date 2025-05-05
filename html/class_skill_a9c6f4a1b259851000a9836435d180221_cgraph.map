@@ -1,0 +1,5 @@
+<map id="Skill::canUse" name="Skill::canUse">
+<area shape="rect" id="Node000001" title="Checks if the skill can be used (not on cooldown and enough mana)" alt="" coords="5,5,105,32"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#ad52b0e61ea93e9c9587654eda71a90c5" title=" " alt="" coords="153,5,302,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,16,137,16,137,21,105,21"/>
+</map>

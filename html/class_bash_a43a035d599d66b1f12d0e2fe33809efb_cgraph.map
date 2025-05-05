@@ -1,0 +1,19 @@
+<map id="Bash::Activate" name="Bash::Activate">
+<area shape="rect" id="Node000001" title="activates the bash skill" alt="" coords="5,31,113,57"/>
+<area shape="rect" id="Node000002" href="$class_skill.html#a1c86b0fd8802b22ad41e161ee4b9c7af" title="gets the owner of the skill" alt="" coords="169,5,282,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,33,153,27,154,32,114,38"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a59d67d73af9f009652b706b9c2103eef" title=" " alt="" coords="161,56,291,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,50,146,55,145,60,113,55"/>
+<area shape="rect" id="Node000004" href="$class_unit.html#a8281a6dc8da932bf8b5a817016a53a1b" title=" " alt="" coords="339,5,496,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="279,53,349,34,350,39,280,58"/>
+<area shape="rect" id="Node000005" href="$class_unit.html#a8f5cdf29b6fa2fdd14b81febaa29ca5e" title=" " alt="" coords="340,56,496,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="291,67,324,67,324,72,291,72"/>
+<area shape="rect" id="Node000008" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="862,56,940,83"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="278,81,339,92,483,100,625,96,752,86,847,74,847,80,752,91,626,101,483,105,339,97,277,86"/>
+<area shape="rect" id="Node000006" href="$class_unit.html#a25f397a83d728389d66eb251eaec9f69" title=" " alt="" coords="544,5,759,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="482,53,571,33,572,38,483,58"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="496,67,847,67,847,72,496,72"/>
+<area shape="rect" id="Node000007" href="$class_unit.html#a680ab289c9cb28dd0cd8153b35f3c638" title=" " alt="" coords="807,5,995,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="759,16,791,16,791,21,759,21"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="721,30,847,56,846,61,720,35"/>
+</map>

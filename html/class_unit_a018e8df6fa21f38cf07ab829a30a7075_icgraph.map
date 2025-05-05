@@ -1,0 +1,15 @@
+<map id="Unit::CalculateEvadePoints" name="Unit::CalculateEvadePoints">
+<area shape="rect" id="Node000001" title=" " alt="" coords="480,81,662,108"/>
+<area shape="rect" id="Node000002" href="$class_assassin.html#a2a7f139751cc4115d72244ba0f22da88" title=" " alt="" coords="282,5,404,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="519,78,431,47,394,35,396,30,433,41,521,73"/>
+<area shape="rect" id="Node000003" href="$class_berserker.html#a0f9510b8fda26857718a2c6a7d316359" title=" " alt="" coords="281,56,404,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="464,85,405,79,405,74,465,80"/>
+<area shape="rect" id="Node000004" href="$class_unit.html#a9981bed5ce46902c75942ea99e0d2151" title=" " alt="" coords="297,107,388,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="465,109,389,118,389,112,464,104"/>
+<area shape="rect" id="Node000007" href="$class_character.html#a313349e38f17cb106aa5ebff5de56235" title=" " alt="" coords="254,157,432,200"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="520,116,404,159,402,154,518,111"/>
+<area shape="rect" id="Node000005" href="$class_summoned_unit.html#a03c4d0c8abcd4bd049fb1e9c51133e5a" title=" " alt="" coords="5,81,206,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="281,116,206,108,207,103,282,111"/>
+<area shape="rect" id="Node000006" href="$class_mob.html#a62f286abfaa9b38c0bc9300724af2547" title=" " alt="" coords="43,132,168,159"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="282,129,168,141,168,136,282,124"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="DungeonPathService::ShouldForceBossChamber" name="DungeonPathService::ShouldForceBossChamber">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,191,115"/>
+<area shape="rect" id="Node000002" href="$class_dungeon_path_model.html#a464afa0014480baad08fda5f7c054d9c" title=" " alt="" coords="239,5,466,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,69,253,50,254,55,183,74"/>
+<area shape="rect" id="Node000003" href="$class_dungeon_path_model.html#a0590fb287766f520b162703687b13eee" title=" " alt="" coords="244,72,460,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,91,228,91,228,96,191,96"/>
+<area shape="rect" id="Node000004" href="$class_dungeon_path_model.html#a671f7767b4a6bdf21b5f882b05c3059b" title=" " alt="" coords="256,139,448,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,113,254,132,253,137,181,118"/>
+</map>

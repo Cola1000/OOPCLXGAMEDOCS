@@ -1,0 +1,7 @@
+<map id="Character::GetLevel" name="Character::GetLevel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,31,347,57"/>
+<area shape="rect" id="Node000002" href="$class_berserker.html#a6ab30d3f36ab9f1e8d78ca2ef9debaaf" title=" " alt="" coords="16,5,150,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,36,149,30,150,25,194,30"/>
+<area shape="rect" id="Node000003" href="$class_necromancer.html#a79df642012608bcd15f7ac5d781ba2da" title=" " alt="" coords="5,56,161,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,58,161,62,161,57,193,52"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="BattleState::BattleState" name="BattleState::BattleState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,165,83"/>
+<area shape="rect" id="Node000002" href="$class_message_queue.html#a681e8709db345a2cf380c6faa61746bd" title=" " alt="" coords="213,5,409,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,53,233,33,234,39,148,58"/>
+<area shape="rect" id="Node000003" href="$class_game_state.html#a74c218c7a40b12a4ce443f15c8f0952e" title=" " alt="" coords="230,56,392,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,67,215,67,215,72,165,72"/>
+<area shape="rect" id="Node000004" href="$class_message_queue.html#ab9c313e50f95c57fcd3d7388611f27a4" title=" " alt="" coords="226,107,396,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="148,81,234,100,233,105,147,86"/>
+</map>

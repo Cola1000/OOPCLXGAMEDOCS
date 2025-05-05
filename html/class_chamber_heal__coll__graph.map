@@ -1,0 +1,5 @@
+<map id="ChamberHeal" name="ChamberHeal">
+<area shape="rect" id="Node000001" title="Represents a healing chamber that provides HP restoration to the player." alt="" coords="5,80,107,107"/>
+<area shape="rect" id="Node000002" href="$class_chamber.html" title="Represents a single chamber in a dungeon, with difficulty rank and optional double dungeon status." alt="" coords="19,5,93,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,48,59,80,53,80,53,48"/>
+</map>

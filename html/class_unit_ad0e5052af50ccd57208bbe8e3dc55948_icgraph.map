@@ -1,0 +1,46 @@
+<map id="Unit::SetAttackDamage" name="Unit::SetAttackDamage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="629,335,790,361"/>
+<area shape="rect" id="Node000002" href="$class_boss_mob.html#aa39cb6adc72ee281111e7444d5216046" title=" " alt="" coords="229,5,368,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="695,322,677,283,652,237,619,189,580,147,524,108,464,76,405,52,353,35,354,30,406,47,466,71,527,103,583,143,623,186,656,234,682,281,700,319"/>
+<area shape="rect" id="Node000005" href="$class_mob.html#a96dfc9fae603633056d6757e3b87ea4d" title=" " alt="" coords="465,157,544,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="690,323,645,260,615,227,580,198,544,182,546,177,583,194,618,223,649,257,695,320"/>
+<area shape="rect" id="Node000013" href="$class_atk_buff.html#a6d413f369f5549cb83176364179fd428" title="applies the buff" alt="" coords="444,208,566,235"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="682,326,636,287,580,249,555,238,557,233,583,244,640,283,685,322"/>
+<area shape="rect" id="Node000014" href="$class_atk_debuff.html#a0d58898e7f559ee39bafccc5c84252f4" title="applies the debuff" alt="" coords="436,259,573,285"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="660,331,580,300,548,288,550,283,582,295,662,326"/>
+<area shape="rect" id="Node000015" href="$class_rage.html#a8712818502f502d14b376a749c541a7a" title="method that is called after the effect is applied" alt="" coords="450,309,560,336"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="614,339,560,332,560,327,614,334"/>
+<area shape="rect" id="Node000016" href="$class_atk_buff.html#a8b3e521489aafffebe62656654d79c31" title="removes the buff" alt="" coords="436,360,574,387"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="614,362,574,367,574,362,613,357"/>
+<area shape="rect" id="Node000017" href="$class_atk_debuff.html#a4b99e2b7a8bcd80377dddbf2c96ebbf7" title="removes the debuff" alt="" coords="428,411,581,437"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="662,370,582,401,550,413,548,408,580,396,660,365"/>
+<area shape="rect" id="Node000018" href="$class_bleed.html#a3d5d1d964a6a9d980a1c7efc59d2ed14" title="removes the weakness" alt="" coords="440,461,569,488"/>
+<area shape="poly" id="edge22_Node000001_Node000018" title=" " alt="" coords="685,374,640,413,583,452,557,463,555,458,580,447,636,409,682,370"/>
+<area shape="rect" id="Node000019" href="$class_rage.html#a22f33cf29cf63f08450c8c31a5028550" title="method that is called before the effect is removed" alt="" coords="442,512,568,539"/>
+<area shape="poly" id="edge23_Node000001_Node000019" title=" " alt="" coords="695,376,649,439,618,473,583,502,561,514,558,509,580,498,615,469,645,436,690,373"/>
+<area shape="rect" id="Node000020" href="$class_bleed.html#aaedcfb4828bd56daeb0a636f678d276a" title="applies damage on each turn" alt="" coords="438,563,571,589"/>
+<area shape="poly" id="edge24_Node000001_Node000020" title=" " alt="" coords="700,377,683,416,658,463,625,511,583,553,564,564,561,560,580,549,620,508,653,460,679,413,696,375"/>
+<area shape="rect" id="Node000003" href="$class_boss_mob.html#ad53fac5f782d0132c70dcbb803f7a503" title=" " alt="" coords="17,31,157,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="214,31,157,38,157,33,213,26"/>
+<area shape="rect" id="Node000004" href="$class_boss_mob.html#a5286a25aca81ad877b40a94cff83533f" title=" " alt="" coords="17,139,157,165"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="264,43,112,140,109,136,261,38"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="481,147,436,100,379,53,343,35,345,30,381,48,440,96,485,143"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="472,150,429,122,379,97,322,79,263,66,157,51,157,46,264,61,323,74,381,92,432,117,475,146"/>
+<area shape="rect" id="Node000006" href="$class_boss_mob.html#a2450accea1a67073d20f804f78133413" title=" " alt="" coords="229,157,368,184"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="449,173,368,173,368,168,449,168"/>
+<area shape="rect" id="Node000007" href="$class_mob.html#a2b8e8e20a2607e41de7f7b2bbab04f48" title=" " alt="" coords="259,208,338,235"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="450,187,339,214,338,209,449,181"/>
+<area shape="rect" id="Node000008" href="$class_normal_mob.html#a53543d2aa563e91e998fa185589ac6c6" title=" " alt="" coords="217,309,380,336"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="452,185,430,198,419,210,413,222,407,247,401,273,393,286,382,299,364,311,361,307,378,295,389,283,396,271,402,246,408,220,415,207,426,194,449,180"/>
+<area shape="rect" id="Node000009" href="$class_normal_mob.html#ad695b15ec6271e7e8882ef566004a2cf" title=" " alt="" coords="5,348,169,375"/>
+<area shape="poly" id="edge12_Node000005_Node000009" title=" " alt="" coords="452,184,430,198,416,216,410,235,409,275,407,314,398,333,382,350,354,367,323,379,291,386,258,389,194,387,140,378,141,373,195,382,258,384,290,381,322,374,351,363,378,346,394,330,402,313,404,275,405,235,412,214,426,194,449,179"/>
+<area shape="rect" id="Node000011" href="$class_normal_mob.html#a9d539d4a0ee5918022ed77f1df08b095" title=" " alt="" coords="217,107,380,133"/>
+<area shape="poly" id="edge13_Node000005_Node000011" title=" " alt="" coords="449,160,355,137,356,131,450,155"/>
+<area shape="rect" id="Node000012" href="$class_mob.html#ab36db34e133397cd9b8175abd9a85157" title=" " alt="" coords="244,259,353,285"/>
+<area shape="poly" id="edge14_Node000005_Node000012" title=" " alt="" coords="452,187,429,198,415,210,406,223,397,236,381,249,355,262,352,257,379,244,393,232,402,220,411,207,427,194,449,182"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="207,342,164,350,163,345,206,337"/>
+<area shape="rect" id="Node000010" href="$class_normal_mob.html#a132f51b50781440e3b6c047221442ebe" title=" " alt="" coords="11,272,163,299"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="204,309,163,301,164,296,205,303"/>
+<area shape="poly" id="edge15_Node000012_Node000004" title=" " alt="" coords="229,255,215,249,150,207,102,168,105,164,153,203,218,244,231,250"/>
+<area shape="poly" id="edge16_Node000012_Node000010" title=" " alt="" coords="229,279,163,283,163,278,228,274"/>
+</map>

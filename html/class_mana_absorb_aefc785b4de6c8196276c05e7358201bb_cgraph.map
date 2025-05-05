@@ -1,0 +1,8 @@
+<map id="ManaAbsorb::CLONE_METHOD" name="ManaAbsorb::CLONE_METHOD">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,219,56"/>
+<area shape="rect" id="Node000002" href="$class_mana_absorb.html#adcf62065bb2de9c516d97391cc2ab06e" title=" " alt="" coords="267,29,442,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,40,251,40,251,45,219,45"/>
+<area shape="rect" id="Node000003" href="$class_effect.html#a4dae74244f59936a49847da9217b4126" title="default constructor for effect" alt="" coords="490,29,587,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,40,474,40,474,45,442,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="507,30,502,21,505,11,518,5,539,3,561,5,573,12,570,16,559,10,539,8,520,10,509,15,507,20,512,27"/>
+</map>

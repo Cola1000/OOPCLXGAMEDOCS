@@ -1,0 +1,9 @@
+<map id="src/UISystem/Core/MessageQueue.cpp" name="src/UISystem/Core/MessageQueue.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="26,5,217,48"/>
+<area shape="rect" id="Node000002" href="$_message_queue_8hpp.html" title=" " alt="" coords="5,96,238,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,49,124,80,119,80,119,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="53,171,110,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,125,98,158,93,156,112,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="135,171,188,197"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="131,122,150,156,145,158,126,125"/>
+</map>

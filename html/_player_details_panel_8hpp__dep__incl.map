@@ -1,0 +1,7 @@
+<map id="include/UISystem/Components/GUI/Specialized/PlayerDetailsPanel.hpp" name="include/UISystem/Components/GUI/Specialized/PlayerDetailsPanel.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="52,5,312,48"/>
+<area shape="rect" id="Node000002" href="$_profile_g_u_i_8hpp.html" title=" " alt="" coords="5,104,159,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,61,105,105,102,101,148,57"/>
+<area shape="rect" id="Node000003" href="$_player_details_panel_8cpp.html" title=" " alt="" coords="182,96,384,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,57,255,94,252,98,213,61"/>
+</map>

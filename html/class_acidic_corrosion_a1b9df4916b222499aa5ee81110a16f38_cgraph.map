@@ -1,0 +1,7 @@
+<map id="AcidicCorrosion::Activate" name="AcidicCorrosion::Activate">
+<area shape="rect" id="Node000001" title="activates the skill" alt="" coords="5,31,175,57"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#adf36da7ad8ec2be159c18cb21b74ebeb" title=" " alt="" coords="224,5,334,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,30,209,25,210,31,175,35"/>
+<area shape="rect" id="Node000003" href="$class_skill.html#a1c86b0fd8802b22ad41e161ee4b9c7af" title="gets the owner of the skill" alt="" coords="223,56,336,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,53,208,57,207,62,174,58"/>
+</map>

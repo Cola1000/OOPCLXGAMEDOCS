@@ -1,0 +1,22 @@
+<map id="Frozen::OnTurnStart" name="Frozen::OnTurnStart">
+<area shape="rect" id="Node000001" title="method that is called when the turn of the effect&#39;s target starts" alt="" coords="5,81,146,108"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a7a847b1b46a01eedc0830fffdff460a9" title="gets the target of the effect" alt="" coords="212,5,332,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,78,193,42,211,35,213,40,195,46,108,83"/>
+<area shape="rect" id="Node000003" href="$class_effect.html#ac6c3fb8a637e397a6fb3517393f2949d" title="notifies the event system that an effect was triggered" alt="" coords="206,56,338,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,83,190,77,191,82,147,88"/>
+<area shape="rect" id="Node000006" href="$class_unit.html#a8cbdd9baf952b215ba930dae3923a0d7" title=" " alt="" coords="219,107,324,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="147,101,204,109,203,114,146,106"/>
+<area shape="rect" id="Node000007" href="$class_unit.html#a8f5cdf29b6fa2fdd14b81febaa29ca5e" title=" " alt="" coords="194,157,350,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="108,106,195,143,213,149,211,154,193,148,106,111"/>
+<area shape="rect" id="Node000004" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="429,19,581,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="338,56,413,44,414,49,339,61"/>
+<area shape="rect" id="Node000005" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="440,69,570,96"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="339,70,425,75,425,81,338,76"/>
+<area shape="rect" id="Node000008" href="$class_unit.html#a25f397a83d728389d66eb251eaec9f69" title=" " alt="" coords="398,132,612,159"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="350,160,382,156,383,161,351,165"/>
+<area shape="rect" id="Node000010" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="716,183,793,209"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="350,172,701,191,701,196,350,177"/>
+<area shape="rect" id="Node000009" href="$class_unit.html#a680ab289c9cb28dd0cd8153b35f3c638" title=" " alt="" coords="660,132,849,159"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="613,143,645,143,645,148,613,148"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="575,157,701,183,700,188,574,162"/>
+</map>

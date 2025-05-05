@@ -1,0 +1,9 @@
+<map id="Fortify::Activate" name="Fortify::Activate">
+<area shape="rect" id="Node000001" title="activates the fortify skill" alt="" coords="5,56,120,83"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#adf36da7ad8ec2be159c18cb21b74ebeb" title=" " alt="" coords="169,5,280,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,53,164,35,165,40,109,58"/>
+<area shape="rect" id="Node000003" href="$class_skill.html#a1c86b0fd8802b22ad41e161ee4b9c7af" title="gets the owner of the skill" alt="" coords="168,56,281,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,67,152,67,152,72,120,72"/>
+<area shape="rect" id="Node000004" href="$class_skill.html#a64ceb1531ec372146ee77f23305dcf81" title="gets the tier of the skill" alt="" coords="176,107,273,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="109,81,165,99,164,104,107,86"/>
+</map>

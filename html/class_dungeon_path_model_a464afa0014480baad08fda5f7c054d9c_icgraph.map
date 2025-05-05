@@ -1,0 +1,8 @@
+<map id="DungeonPathModel::GetCompletedCombatChambers" name="DungeonPathModel::GetCompletedCombatChambers">
+<area shape="rect" id="Node000001" title=" " alt="" coords="445,5,672,48"/>
+<area shape="rect" id="Node000002" href="$class_dungeon_path_service.html#a5b737c98bb4434803f45c7b07e12ecde" title=" " alt="" coords="5,5,164,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="429,26,397,25,212,25,164,26,164,21,212,20,397,20,429,21"/>
+<area shape="rect" id="Node000003" href="$class_dungeon_path_service.html#ab8b8d95383d5e1528d1f111b802e518d" title=" " alt="" coords="212,35,397,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="430,44,398,48,397,43,429,39"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="196,44,164,40,164,35,197,39"/>
+</map>

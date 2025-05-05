@@ -1,0 +1,7 @@
+<map id="Unit::ApplyEffectOnTakeDamage" name="Unit::ApplyEffectOnTakeDamage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,220,57"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#a680ab289c9cb28dd0cd8153b35f3c638" title=" " alt="" coords="268,5,456,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,30,252,27,253,32,221,36"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="323,56,400,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,52,308,61,307,67,220,58"/>
+</map>

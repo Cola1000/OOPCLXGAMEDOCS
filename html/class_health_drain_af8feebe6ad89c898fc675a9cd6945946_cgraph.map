@@ -1,0 +1,6 @@
+<map id="HealthDrain::HealthDrain" name="HealthDrain::HealthDrain">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,173,56"/>
+<area shape="rect" id="Node000002" href="$class_health_drain.html#a61c478814d82547f30519731b8f49f14" title=" " alt="" coords="221,29,388,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,40,205,40,205,45,173,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="268,30,261,21,266,11,281,5,304,3,330,5,344,12,341,16,328,10,304,8,282,10,270,15,267,20,272,27"/>
+</map>

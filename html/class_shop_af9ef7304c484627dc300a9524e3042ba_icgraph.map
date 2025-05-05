@@ -1,0 +1,5 @@
+<map id="Shop::init" name="Shop::init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="165,5,241,32"/>
+<area shape="rect" id="Node000002" href="$class_load.html#a70fcc2cb1ce133a37c712e4a6bf3cb18" title=" " alt="" coords="5,5,117,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,21,117,21,117,16,149,16"/>
+</map>

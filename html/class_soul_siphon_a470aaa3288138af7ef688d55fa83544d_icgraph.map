@@ -1,0 +1,6 @@
+<map id="SoulSiphon::SoulSiphon" name="SoulSiphon::SoulSiphon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="260,29,421,56"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="381,17,367,10,340,8,316,10,303,15,300,20,306,27,301,31,294,21,299,11,315,5,340,3,368,5,383,12"/>
+<area shape="rect" id="Node000002" href="$class_soul_siphon.html#a5dd9557a0694079286d9b924a04f054c" title=" " alt="" coords="5,29,212,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,45,212,45,212,40,244,40"/>
+</map>

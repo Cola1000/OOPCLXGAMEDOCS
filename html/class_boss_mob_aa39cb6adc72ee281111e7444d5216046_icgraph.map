@@ -1,0 +1,7 @@
+<map id="BossMob::BossMob" name="BossMob::BossMob">
+<area shape="rect" id="Node000001" title=" " alt="" coords="193,31,332,57"/>
+<area shape="rect" id="Node000002" href="$class_boss_mob.html#ad53fac5f782d0132c70dcbb803f7a503" title=" " alt="" coords="5,5,145,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,35,145,31,146,25,178,30"/>
+<area shape="rect" id="Node000003" href="$class_boss_mob.html#a5286a25aca81ad877b40a94cff83533f" title=" " alt="" coords="5,56,145,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,58,146,63,145,57,177,53"/>
+</map>

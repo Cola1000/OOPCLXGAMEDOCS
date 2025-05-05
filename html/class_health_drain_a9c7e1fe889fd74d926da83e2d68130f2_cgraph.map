@@ -1,0 +1,20 @@
+<map id="HealthDrain::OnTurnStart" name="HealthDrain::OnTurnStart">
+<area shape="rect" id="Node000001" title="method that is called when the turn of the effect&#39;s target starts" alt="" coords="5,56,175,83"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a7a847b1b46a01eedc0830fffdff460a9" title="gets the target of the effect" alt="" coords="241,5,361,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,53,227,34,228,39,149,58"/>
+<area shape="rect" id="Node000003" href="$class_effect.html#ac6c3fb8a637e397a6fb3517393f2949d" title="notifies the event system that an effect was triggered" alt="" coords="235,56,367,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,67,220,67,220,72,175,72"/>
+<area shape="rect" id="Node000006" href="$class_unit.html#a8f5cdf29b6fa2fdd14b81febaa29ca5e" title=" " alt="" coords="223,107,379,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="149,81,228,100,227,105,148,86"/>
+<area shape="rect" id="Node000004" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="458,5,610,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="365,53,454,33,455,38,366,58"/>
+<area shape="rect" id="Node000005" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="470,56,599,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="368,67,454,67,454,72,368,72"/>
+<area shape="rect" id="Node000007" href="$class_unit.html#a25f397a83d728389d66eb251eaec9f69" title=" " alt="" coords="427,107,641,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="380,117,411,117,411,123,380,123"/>
+<area shape="rect" id="Node000009" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="745,157,822,184"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="363,131,427,143,592,159,730,166,729,172,592,164,427,148,362,137"/>
+<area shape="rect" id="Node000008" href="$class_unit.html#a680ab289c9cb28dd0cd8153b35f3c638" title=" " alt="" coords="689,107,878,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="642,117,674,117,674,123,642,123"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="604,131,730,157,729,162,603,137"/>
+</map>

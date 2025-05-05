@@ -1,0 +1,5 @@
+<map id="ChamberHeal::generateRandomHeal" name="ChamberHeal::generateRandomHeal">
+<area shape="rect" id="Node000001" title="Generates the final heal amount with randomization." alt="" coords="5,5,241,32"/>
+<area shape="rect" id="Node000002" href="$class_chamber.html#ab53fa2722c5074604dc39298e07ef793" title="Gets the rank of the Chamber." alt="" coords="289,5,420,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,16,273,16,273,21,241,21"/>
+</map>

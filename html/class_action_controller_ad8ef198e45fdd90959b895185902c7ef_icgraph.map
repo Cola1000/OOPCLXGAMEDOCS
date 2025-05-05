@@ -1,0 +1,17 @@
+<map id="ActionController::ResolveSkill" name="ActionController::ResolveSkill">
+<area shape="rect" id="Node000001" title=" " alt="" coords="653,105,824,148"/>
+<area shape="rect" id="Node000002" href="$class_action_controller.html#a9b637e63c6962767f8d4546cccd84b07" title=" " alt="" coords="436,5,604,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="682,100,604,62,578,51,580,46,606,58,684,95"/>
+<area shape="rect" id="Node000005" href="$class_action_controller.html#ae8f4a3ff574dd2a7a6488fc4559e1f42" title=" " alt="" coords="435,72,605,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="638,114,606,109,606,104,639,109"/>
+<area shape="rect" id="Node000007" href="$class_action_controller.html#a03562d940419717f4c51034d3b1513ab" title=" " alt="" coords="438,139,602,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="639,145,603,150,602,145,638,139"/>
+<area shape="rect" id="Node000008" href="$class_action_controller.html#acb173fab2e8b5c429afb77f59ff268e7" title=" " alt="" coords="438,205,602,248"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="684,158,606,196,580,207,578,202,604,191,682,153"/>
+<area shape="rect" id="Node000003" href="$class_action_controller.html#a55b4873f8ea538aca8904d949ebfc947" title=" " alt="" coords="217,5,387,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="421,29,387,29,387,24,421,24"/>
+<area shape="rect" id="Node000004" href="$class_action_controller.html#a268e490bf5d3a62eec00319001031190" title=" " alt="" coords="5,5,169,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="201,29,169,29,169,24,201,24"/>
+<area shape="rect" id="Node000006" href="$class_action_controller.html#af6eb316ce7a2662fe66acaf453cf401a" title=" " alt="" coords="220,72,384,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="420,96,384,96,384,91,420,91"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Skill::GetTier" name="Skill::GetTier">
+<area shape="rect" id="Node000001" title="gets the tier of the skill" alt="" coords="209,284,306,311"/>
+<area shape="rect" id="Node000002" href="$class_bone_shard.html#abeef283e2e519f4f78e291ec5605bb59" title="activates the skill" alt="" coords="12,5,154,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,269,242,221,226,161,199,99,181,71,159,46,143,35,146,30,162,42,185,68,204,97,231,159,248,220,256,268"/>
+<area shape="rect" id="Node000003" href="$class_charge.html#a87de8256bae856c3f95171ce5289982c" title="activates the charge skill" alt="" coords="23,56,143,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,270,237,231,219,184,194,137,159,97,142,86,145,81,162,93,198,134,224,182,242,229,253,268"/>
+<area shape="rect" id="Node000004" href="$class_counter.html#ae7b7e01331b0c22ecfd77760a2711f61" title="activates the counter skill" alt="" coords="21,107,145,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="243,271,211,208,188,176,159,147,140,136,143,132,162,143,192,172,216,206,248,268"/>
+<area shape="rect" id="Node000005" href="$class_fireball.html#a2b61a1303dea04d40127804e1f86fe4f" title="activates the fireball skill" alt="" coords="23,157,143,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="236,273,202,235,159,198,136,187,139,182,162,194,206,231,240,270"/>
+<area shape="rect" id="Node000006" href="$class_fortify.html#ac7b6065f4442ba94b7d194354110afc2" title="activates the fortify skill" alt="" coords="26,208,140,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="218,279,160,249,129,238,131,233,162,244,221,274"/>
+<area shape="rect" id="Node000007" href="$class_infernal_curse.html#a468f7f5cc8273f83683203f38215a5cf" title="activates the skill" alt="" coords="5,259,161,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="193,291,160,286,161,281,194,285"/>
+<area shape="rect" id="Node000008" href="$class_light_feet.html#afb352961d30e8ab7100a42047abd0cc8" title="activates the light feet skill" alt="" coords="17,309,149,336"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="193,309,150,316,149,310,193,304"/>
+<area shape="rect" id="Node000009" href="$class_slash.html#a60c87098736b0bb37dc0482988fe3191" title="activates the slash skill" alt="" coords="28,360,138,387"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="221,321,162,350,131,362,129,357,160,346,218,316"/>
+<area shape="rect" id="Node000010" href="$class_stab.html#a3c59b8a821d0eab4e8365399046bad91" title="activates the skill" alt="" coords="31,411,135,437"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="240,325,206,364,162,401,137,413,134,408,159,396,202,360,236,322"/>
+<area shape="rect" id="Node000011" href="$class_strengthen.html#a42370761b428d9913c6d63b1663b1f15" title="activates the strengthen skill" alt="" coords="13,461,153,488"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="248,326,216,389,192,423,162,451,143,463,140,458,159,447,188,419,211,386,243,324"/>
+<area shape="rect" id="Node000012" href="$class_weaken.html#a5461de5a185cfdc8116f2e2ad7753c5b" title="activates the weaken skill" alt="" coords="21,512,145,539"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="253,326,242,365,224,412,198,460,162,502,145,514,142,509,159,498,194,457,219,410,237,364,248,325"/>
+<area shape="rect" id="Node000013" href="$class_skilltree.html#a8fce858f552d85115e6475b17a18e9a6" title="adds a skill to the skill tree" alt="" coords="21,563,145,589"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="256,327,248,375,231,435,204,498,185,527,162,553,146,564,143,560,159,549,181,524,199,495,226,434,242,374,251,326"/>
+</map>

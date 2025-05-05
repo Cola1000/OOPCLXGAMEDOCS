@@ -1,0 +1,7 @@
+<map id="Skilltree::AddSkill" name="Skilltree::AddSkill">
+<area shape="rect" id="Node000001" title="adds a skill to the skill tree" alt="" coords="5,31,130,57"/>
+<area shape="rect" id="Node000002" href="$class_skill.html#a2337b1af850656c1a15d494f683feda8" title="gets the id of the skill" alt="" coords="182,5,271,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,31,166,26,167,31,131,37"/>
+<area shape="rect" id="Node000003" href="$class_skill.html#a64ceb1531ec372146ee77f23305dcf81" title="gets the tier of the skill" alt="" coords="178,56,275,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,51,163,57,162,62,130,57"/>
+</map>

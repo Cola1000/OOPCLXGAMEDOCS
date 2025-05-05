@@ -1,0 +1,8 @@
+<map id="Mage::UseSkill" name="Mage::UseSkill">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,116,32"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="314,5,391,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,16,299,16,299,21,116,21"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#af18cc7ec3d698d67f9518ae3b08bd675" title=" " alt="" coords="164,31,266,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,25,149,30,148,36,116,30"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="266,32,298,26,299,31,267,37"/>
+</map>

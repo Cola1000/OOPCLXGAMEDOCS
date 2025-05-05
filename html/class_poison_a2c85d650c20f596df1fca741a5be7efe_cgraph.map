@@ -1,0 +1,6 @@
+<map id="Poison::Poison" name="Poison::Poison">
+<area shape="rect" id="Node000001" title="constructor" alt="" coords="5,29,115,56"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a4dae74244f59936a49847da9217b4126" title="default constructor for effect" alt="" coords="163,29,260,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,40,147,40,147,45,115,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="185,30,180,21,184,11,194,5,211,3,230,5,240,12,237,16,228,10,211,8,196,10,188,14,186,20,190,28"/>
+</map>

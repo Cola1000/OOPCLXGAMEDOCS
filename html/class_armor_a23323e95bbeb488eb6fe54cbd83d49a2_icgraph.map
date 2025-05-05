@@ -1,0 +1,9 @@
+<map id="Armor::Armor" name="Armor::Armor">
+<area shape="rect" id="Node000001" title="Default constructor for Armor. Initializes default values for the armor attributes." alt="" coords="229,56,328,83"/>
+<area shape="rect" id="Node000002" href="$class_armor.html#a40d54a621183a93edaecb2cd4e83c800" title="Copy constructor. Creates a new Armor object as a copy of another Armor." alt="" coords="43,5,143,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,54,142,35,143,30,214,49"/>
+<area shape="rect" id="Node000003" href="$class_armor.html#a61e591f9551e44e0aa7e0127ecc2dfaf" title=" " alt="" coords="5,56,181,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,72,181,72,181,67,213,67"/>
+<area shape="rect" id="Node000004" href="$class_armor.html#af869d62e397cf11428724787c3795de6" title="Assignment operator. Assigns the values from one Armor object to another." alt="" coords="33,107,153,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,89,145,109,144,103,213,84"/>
+</map>

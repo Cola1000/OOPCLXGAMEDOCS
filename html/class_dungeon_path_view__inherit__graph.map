@@ -1,0 +1,7 @@
+<map id="DungeonPathView" name="DungeonPathView">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,135,107"/>
+<area shape="rect" id="Node000003" href="$class_dungeon_path_c_l_i.html" title="CLI implementation of door choice view." alt="" coords="9,155,131,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="73,122,73,154,67,154,67,122"/>
+<area shape="rect" id="Node000002" href="$class_view_base.html" title=" " alt="" coords="30,5,110,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,48,73,80,67,80,67,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Guardian::Guardian" name="Guardian::Guardian">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,139,32"/>
+<area shape="rect" id="Node000002" href="$class_character.html#adc27bdd255876169bad2ed0bae0cffb5" title=" " alt="" coords="187,5,330,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,16,171,16,171,21,139,21"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="378,5,455,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="330,16,362,16,362,21,330,21"/>
+</map>

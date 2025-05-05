@@ -1,0 +1,13 @@
+<map id="DungeonPathController::GenerateDoorChoices" name="DungeonPathController::GenerateDoorChoices">
+<area shape="rect" id="Node000001" title=" " alt="" coords="897,5,1055,48"/>
+<area shape="rect" id="Node000002" href="$class_dungeon_path_controller.html#a770cb630ce89a930470f5cc85b523a6e" title=" " alt="" coords="5,5,170,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="881,26,849,25,533,22,218,25,170,26,170,21,218,20,533,17,849,20,881,21"/>
+<area shape="rect" id="Node000003" href="$class_dungeon_path_controller.html#a5d3e298635e94e260a176293615108f9" title=" " alt="" coords="686,35,849,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="882,43,849,47,849,42,881,37"/>
+<area shape="rect" id="Node000004" href="$class_dungeon_path_controller.html#a1319b54b75cd72a6465f37c47b3f72d6" title=" " alt="" coords="430,35,638,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="671,59,639,59,639,53,671,53"/>
+<area shape="rect" id="Node000005" href="$class_dungeon_path_controller.html#aa0fa9d9a634a230eea9e6daa97a849a4" title=" " alt="" coords="218,35,382,77"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="681,84,639,92,534,101,430,92,372,81,373,75,430,87,534,95,638,87,680,79"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="414,59,382,59,382,53,414,53"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="202,45,170,41,170,35,203,40"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GameState::Exit" name="GameState::Exit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="171,5,289,32"/>
+<area shape="rect" id="Node000002" href="$class_battle_state.html#ad9a4b4f5e4b40b176c222e374c14cce6" title=" " alt="" coords="5,5,123,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,21,123,21,123,16,155,16"/>
+</map>

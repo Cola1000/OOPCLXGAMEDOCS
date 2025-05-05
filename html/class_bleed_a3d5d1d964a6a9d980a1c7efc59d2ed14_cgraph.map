@@ -1,0 +1,7 @@
+<map id="Bleed::OnRemove" name="Bleed::OnRemove">
+<area shape="rect" id="Node000001" title="removes the weakness" alt="" coords="5,31,134,57"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a7a847b1b46a01eedc0830fffdff460a9" title="gets the target of the effect" alt="" coords="202,5,322,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,33,186,26,187,31,134,38"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#ad0e5052af50ccd57208bbe8e3dc55948" title=" " alt="" coords="182,56,342,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,50,167,54,166,59,134,55"/>
+</map>

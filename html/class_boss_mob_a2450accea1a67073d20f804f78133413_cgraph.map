@@ -1,0 +1,21 @@
+<map id="BossMob::BossMob" name="BossMob::BossMob">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,183,145,209"/>
+<area shape="rect" id="Node000002" href="$class_mob.html#a96dfc9fae603633056d6757e3b87ea4d" title=" " alt="" coords="193,183,272,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,193,177,193,177,199,145,199"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#ad0e5052af50ccd57208bbe8e3dc55948" title=" " alt="" coords="320,5,480,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,181,262,115,287,76,318,42,325,37,328,42,322,46,291,79,267,118,240,183"/>
+<area shape="rect" id="Node000004" href="$class_unit.html#a0cb59e23522a598cb719e7bb1eb1d228" title=" " alt="" coords="323,56,477,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="240,181,271,137,293,113,318,92,327,87,330,92,322,97,297,117,275,141,244,184"/>
+<area shape="rect" id="Node000005" href="$class_unit.html#ae1c3322365fce9a04ddd703347e491b5" title=" " alt="" coords="326,107,474,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="253,180,319,143,335,136,337,141,321,148,256,184"/>
+<area shape="rect" id="Node000006" href="$class_unit.html#a451b46f4bcf822cce11b67c552d26e4b" title=" " alt="" coords="339,157,461,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="272,187,323,180,324,185,273,193"/>
+<area shape="rect" id="Node000007" href="$class_unit.html#ac23d1c37b460f888e3ace6641b1220d1" title=" " alt="" coords="332,208,468,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="273,199,317,206,317,211,272,205"/>
+<area shape="rect" id="Node000008" href="$class_unit.html#a80f43a1566a4290e5b75072dab8ffce1" title=" " alt="" coords="335,259,465,285"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="256,208,321,244,337,251,335,256,319,249,253,212"/>
+<area shape="rect" id="Node000009" href="$class_unit.html#a6099cc0e73effb7178e4f1989d61a22e" title=" " alt="" coords="346,309,454,336"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="244,208,275,251,297,275,322,295,333,302,330,306,318,300,293,279,271,255,240,211"/>
+<area shape="rect" id="Node000010" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="362,360,439,387"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="240,209,267,274,291,313,322,346,348,360,345,365,318,350,287,316,262,277,235,211"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Accessories::Accessories" name="Accessories::Accessories">
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,35,400,61"/>
+<area shape="rect" id="Node000002" href="$class_accessories.html#a4bb97c3f452bd3bfb24d184da4c9aa36" title=" " alt="" coords="5,5,179,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,37,179,33,180,28,212,32"/>
+<area shape="rect" id="Node000003" href="$class_accessories.html#a723d27b403742d21f5b09d94e6fb3b9d" title=" " alt="" coords="18,56,166,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,64,167,70,166,65,211,59"/>
+</map>

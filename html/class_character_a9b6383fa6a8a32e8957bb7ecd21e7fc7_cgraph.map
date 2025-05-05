@@ -1,0 +1,9 @@
+<map id="Character::CalculateHitPoints" name="Character::CalculateHitPoints">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,201,57"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#af48c4b1b6db8cd7c9f70702bd7dbbf6a" title=" " alt="" coords="261,5,424,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,31,245,26,246,32,202,36"/>
+<area shape="rect" id="Node000004" href="$class_character.html#a77f843b40b2ccf714c2825118b2d8c30" title=" " alt="" coords="249,56,436,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,52,233,55,233,60,201,57"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#aac7f7ad149f0ebfd24dc6241f7de40ad" title=" " alt="" coords="484,5,587,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="424,16,468,16,468,21,424,21"/>
+</map>

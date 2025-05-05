@@ -1,0 +1,5 @@
+<map id="ChamberShop::ChamberShop" name="ChamberShop::ChamberShop">
+<area shape="rect" id="Node000001" title="Default constructor for the ChamberShop class, initializing with default rank E." alt="" coords="221,5,416,32"/>
+<area shape="rect" id="Node000002" href="$class_chamber_shop.html#ab954614c07b553227e7701aa50d77adf" title="Assignment operator for the ChamberShop class." alt="" coords="5,5,173,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,21,173,21,173,16,205,16"/>
+</map>

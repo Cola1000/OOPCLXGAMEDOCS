@@ -1,0 +1,11 @@
+<map id="ItemSlot::ItemSlot" name="ItemSlot::ItemSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,133,83"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_element.html#a3656ad55eb49df15dfbd11d78a3d7275" title=" " alt="" coords="198,5,372,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,53,210,34,211,39,130,58"/>
+<area shape="rect" id="Node000004" href="$class_u_i_manager.html#a6000b3411cc27261d730c912fd6c58f7" title=" " alt="" coords="213,56,356,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,67,198,67,198,72,133,72"/>
+<area shape="rect" id="Node000005" href="$class_item_slot.html#a6f291956813f2284428ffbaa3952084c" title=" " alt="" coords="181,107,389,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="130,81,211,100,210,105,129,86"/>
+<area shape="rect" id="Node000003" href="$class_u_i_element.html#a87675df35212845f56e0ec106f2ec79c" title=" " alt="" coords="437,5,590,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="372,16,421,16,421,21,372,21"/>
+</map>

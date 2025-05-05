@@ -1,0 +1,9 @@
+<map id="Counter::Activate" name="Counter::Activate">
+<area shape="rect" id="Node000001" title="activates the counter skill" alt="" coords="5,56,129,83"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#adf36da7ad8ec2be159c18cb21b74ebeb" title=" " alt="" coords="178,5,288,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,53,172,35,173,40,114,58"/>
+<area shape="rect" id="Node000003" href="$class_skill.html#a1c86b0fd8802b22ad41e161ee4b9c7af" title="gets the owner of the skill" alt="" coords="177,56,290,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,67,161,67,161,72,129,72"/>
+<area shape="rect" id="Node000004" href="$class_skill.html#a64ceb1531ec372146ee77f23305dcf81" title="gets the tier of the skill" alt="" coords="185,107,282,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="114,81,173,99,172,104,113,86"/>
+</map>

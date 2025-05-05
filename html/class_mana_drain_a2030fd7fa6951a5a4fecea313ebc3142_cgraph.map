@@ -1,0 +1,15 @@
+<map id="ManaDrain::OnTurnStart" name="ManaDrain::OnTurnStart">
+<area shape="rect" id="Node000001" title="method that is called when the turn of the effect&#39;s target starts" alt="" coords="5,81,169,108"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a7a847b1b46a01eedc0830fffdff460a9" title="gets the target of the effect" alt="" coords="231,5,351,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,78,216,42,234,35,235,40,218,46,123,83"/>
+<area shape="rect" id="Node000003" href="$class_effect.html#ac6c3fb8a637e397a6fb3517393f2949d" title="notifies the event system that an effect was triggered" alt="" coords="225,56,357,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,82,209,77,209,82,169,87"/>
+<area shape="rect" id="Node000006" href="$class_effect.html#aacf41ff8a01c65b117c0fb4ddceb03e6" title="removes self from target" alt="" coords="223,107,358,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="169,102,208,107,208,112,169,107"/>
+<area shape="rect" id="Node000007" href="$class_unit.html#ae1c3322365fce9a04ddd703347e491b5" title=" " alt="" coords="217,157,365,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="123,106,218,143,235,149,234,154,216,148,122,111"/>
+<area shape="rect" id="Node000004" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="413,31,565,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="357,58,397,53,398,58,358,64"/>
+<area shape="rect" id="Node000005" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="424,81,554,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="358,75,410,82,409,87,357,80"/>
+</map>

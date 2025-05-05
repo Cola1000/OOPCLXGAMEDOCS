@@ -1,0 +1,7 @@
+<map id="Effect::NotifyEffect" name="Effect::NotifyEffect">
+<area shape="rect" id="Node000001" title="notifies the event system that an effect was triggered" alt="" coords="5,31,138,57"/>
+<area shape="rect" id="Node000002" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="186,5,338,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,33,170,28,170,34,138,38"/>
+<area shape="rect" id="Node000003" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="197,56,326,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,50,182,56,181,61,138,55"/>
+</map>

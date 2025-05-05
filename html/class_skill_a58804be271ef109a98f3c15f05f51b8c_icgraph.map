@@ -1,0 +1,5 @@
+<map id="Skill::setCooldown" name="Skill::setCooldown">
+<area shape="rect" id="Node000001" title="Sets the skill on cooldown." alt="" coords="154,5,284,32"/>
+<area shape="rect" id="Node000002" href="$class_skill.html#a65ad367c0df0f8f6252df5ec7056875f" title="Executes the skill, applying its effects." alt="" coords="5,5,106,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,21,106,21,106,16,138,16"/>
+</map>

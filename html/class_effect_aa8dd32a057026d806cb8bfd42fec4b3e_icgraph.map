@@ -1,0 +1,5 @@
+<map id="Effect::OnRemove" name="Effect::OnRemove">
+<area shape="rect" id="Node000001" title="method that is called before the effect is removed" alt="" coords="166,5,295,32"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#aed1ee2e86f4d31f5254f8e34f2d6c57f" title="removes the target of this effect" alt="" coords="5,5,118,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,21,118,21,118,16,150,16"/>
+</map>

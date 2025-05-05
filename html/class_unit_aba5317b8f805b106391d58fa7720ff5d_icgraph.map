@@ -1,0 +1,9 @@
+<map id="Unit::GetCurrentHealth" name="Unit::GetCurrentHealth">
+<area shape="rect" id="Node000001" title=" " alt="" coords="408,35,563,61"/>
+<area shape="rect" id="Node000002" href="$class_hunt.html#aff3f177c528fd3ef2a7c4b0cbc7b2c27" title="activates the hunt skill" alt="" coords="216,5,321,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="392,38,321,28,322,23,393,33"/>
+<area shape="rect" id="Node000003" href="$class_berserker.html#a27be68a067199020628470ec6713a739" title=" " alt="" coords="177,56,360,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="393,63,361,68,360,62,392,58"/>
+<area shape="rect" id="Node000004" href="$class_berserker.html#a0f9510b8fda26857718a2c6a7d316359" title=" " alt="" coords="5,64,129,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="161,80,129,80,129,75,161,75"/>
+</map>

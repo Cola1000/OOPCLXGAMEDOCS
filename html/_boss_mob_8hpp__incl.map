@@ -1,0 +1,34 @@
+<map id="include/GameObjects/Unit/MobType/BossMob.hpp" name="include/GameObjects/Unit/MobType/BossMob.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="537,5,727,48"/>
+<area shape="rect" id="Node000002" href="$_mob_8hpp.html" title=" " alt="" coords="540,96,724,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="635,49,635,80,629,80,629,49"/>
+<area shape="rect" id="Node000003" href="$_unit_8hpp.html" title=" " alt="" coords="466,245,536,272"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="597,126,561,144,529,172,514,201,507,230,501,229,509,199,525,169,558,140,594,121"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="754,328,822,355"/>
+<area shape="poly" id="edge20_Node000002_Node000011" title=" " alt="" coords="670,121,706,140,739,169,761,204,775,243,789,312,783,313,770,245,756,207,735,172,703,144,667,126"/>
+<area shape="rect" id="Node000012" href="$_item_8hpp.html" title=" " alt="" coords="539,171,725,197"/>
+<area shape="poly" id="edge16_Node000002_Node000012" title=" " alt="" coords="635,123,635,155,629,155,629,123"/>
+<area shape="rect" id="Node000004" href="$_skill_8hpp.html" title=" " alt="" coords="371,320,509,363"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="487,274,458,309,454,306,483,271"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="551,411,604,437"/>
+<area shape="poly" id="edge12_Node000003_Node000005" title=" " alt="" coords="537,257,575,260,618,270,659,288,677,302,693,319,701,341,693,364,678,382,660,396,620,415,618,410,657,392,675,378,688,361,696,341,688,321,674,306,657,293,616,275,574,266,537,262"/>
+<area shape="rect" id="Node000007" href="$_effect_8hpp.html" title=" " alt="" coords="25,320,172,363"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="466,268,188,319,187,314,465,262"/>
+<area shape="rect" id="Node000008" href="$_units_default_value_8hpp.html" title=" " alt="" coords="196,328,348,355"/>
+<area shape="poly" id="edge11_Node000003_Node000008" title=" " alt="" coords="466,275,323,325,321,320,465,270"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="533,328,590,355"/>
+<area shape="poly" id="edge13_Node000003_Node000009" title=" " alt="" coords="513,271,545,314,541,317,509,274"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="614,328,679,355"/>
+<area shape="poly" id="edge14_Node000003_Node000010" title=" " alt="" coords="525,270,612,318,610,323,523,275"/>
+<area shape="poly" id="edge15_Node000003_Node000011" title=" " alt="" coords="537,265,628,287,735,317,742,320,741,325,734,323,626,292,536,270"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="461,318,488,284,492,287,465,321"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="477,361,544,400,541,405,474,366"/>
+<area shape="rect" id="Node000006" href="$_clonable_8hpp.html" title=" " alt="" coords="31,411,166,437"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="372,363,361,365,170,409,169,404,359,360,370,357"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="172,323,195,317,450,268,451,273,196,323,173,328"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="173,358,184,360,380,393,535,415,535,420,380,398,183,365,172,363"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="101,363,101,395,96,395,96,363"/>
+<area shape="poly" id="edge17_Node000012_Node000003" title=" " alt="" coords="610,200,539,240,536,235,608,196"/>
+<area shape="poly" id="edge19_Node000012_Node000005" title=" " alt="" coords="670,195,735,222,802,261,828,284,846,309,850,336,845,350,837,364,822,377,800,387,742,403,677,415,620,422,619,416,677,410,741,398,798,382,819,372,833,361,841,348,844,336,841,311,824,288,799,266,732,227,668,200"/>
+<area shape="poly" id="edge18_Node000012_Node000006" title=" " alt="" coords="539,194,400,208,242,233,167,250,102,270,49,294,30,307,15,322,10,331,8,340,16,361,33,384,56,401,53,405,29,387,11,364,3,341,5,330,11,318,26,303,47,290,100,265,166,245,241,228,399,203,538,189"/>
+</map>

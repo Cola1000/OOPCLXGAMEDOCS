@@ -1,0 +1,11 @@
+<map id="TurnController::ProcessEndOfTurn" name="TurnController::ProcessEndOfTurn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,188,65"/>
+<area shape="rect" id="Node000002" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="449,5,601,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,22,235,16,338,11,433,12,433,17,338,16,236,21,189,28"/>
+<area shape="rect" id="Node000003" href="$class_turn_controller.html#ad90a73615597c6f6690cf333e9271a37" title=" " alt="" coords="236,31,401,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,41,220,41,220,47,188,47"/>
+<area shape="rect" id="Node000004" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="460,68,590,95"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="188,60,236,67,345,75,445,78,445,84,345,80,235,72,188,65"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="401,31,433,27,434,33,402,36"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="396,55,446,64,445,70,395,61"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Berserker" name="Berserker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="73,172,151,199"/>
+<area shape="rect" id="Node000002" href="$class_character.html" title=" " alt="" coords="73,96,151,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,138,115,172,109,172,109,138"/>
+<area shape="rect" id="Node000003" href="$class_unit.html" title=" " alt="" coords="5,5,51,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="53,42,102,94,98,97,49,46"/>
+<area shape="rect" id="Node000004" href="$class_inventory.html" title=" " alt="" coords="74,5,150,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="115,48,115,95,109,95,109,48"/>
+<area shape="rect" id="Node000005" href="$class_equipment.html" title=" " alt="" coords="174,5,258,32"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="201,47,176,74,141,98,138,93,173,70,197,43"/>
+</map>

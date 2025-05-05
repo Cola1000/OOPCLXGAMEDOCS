@@ -1,0 +1,5 @@
+<map id="Unit::CalculateInitiative" name="Unit::CalculateInitiative">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,163,32"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#aac7f7ad149f0ebfd24dc6241f7de40ad" title=" " alt="" coords="211,5,314,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,16,195,16,195,21,163,21"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="NormalMob::NormalMob" name="NormalMob::NormalMob">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,31,380,57"/>
+<area shape="rect" id="Node000002" href="$class_normal_mob.html#ad695b15ec6271e7e8882ef566004a2cf" title=" " alt="" coords="5,5,169,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,35,169,31,169,26,202,30"/>
+<area shape="rect" id="Node000003" href="$class_normal_mob.html#a132f51b50781440e3b6c047221442ebe" title=" " alt="" coords="11,56,163,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,58,164,63,163,58,201,53"/>
+</map>

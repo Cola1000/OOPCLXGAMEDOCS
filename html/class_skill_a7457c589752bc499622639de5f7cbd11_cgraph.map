@@ -1,0 +1,7 @@
+<map id="Skill::NotifySkill" name="Skill::NotifySkill">
+<area shape="rect" id="Node000001" title="notifies the event system that a skill was used" alt="" coords="5,31,120,57"/>
+<area shape="rect" id="Node000002" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="168,5,320,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,33,152,29,152,34,120,39"/>
+<area shape="rect" id="Node000003" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="179,56,308,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,49,164,55,163,61,120,55"/>
+</map>

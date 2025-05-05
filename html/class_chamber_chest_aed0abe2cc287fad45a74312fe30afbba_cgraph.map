@@ -1,0 +1,10 @@
+<map id="ChamberChest::operator=" name="ChamberChest::operator=">
+<area shape="rect" id="Node000001" title="Assignment operator for the ChamberChest class." alt="" coords="5,31,178,57"/>
+<area shape="rect" id="Node000002" href="$class_chamber_chest.html#a46f48d3086ab39c680f6f951a009d60c" title="Default constructor for the ChamberChest class, initializing with default rank E." alt="" coords="226,5,431,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,32,210,29,210,34,178,37"/>
+<area shape="rect" id="Node000004" href="$class_chamber.html#a6163a1bce8838d9fd85d9fe490ab194d" title="Copy assignment operator." alt="" coords="260,56,397,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,51,244,58,244,63,178,56"/>
+<area shape="rect" id="Node000003" href="$class_chamber.html#ab8391f7a39643a669b4d89fb7635538f" title="Default constructor." alt="" coords="479,31,614,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="431,28,464,32,463,37,431,33"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="397,59,463,51,464,56,398,64"/>
+</map>

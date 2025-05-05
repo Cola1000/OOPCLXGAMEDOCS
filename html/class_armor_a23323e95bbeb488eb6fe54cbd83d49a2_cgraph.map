@@ -1,0 +1,7 @@
+<map id="Armor::Armor" name="Armor::Armor">
+<area shape="rect" id="Node000001" title="Default constructor for Armor. Initializes default values for the armor attributes." alt="" coords="5,31,105,57"/>
+<area shape="rect" id="Node000002" href="$class_item.html#a297720c02984eab37332ae795d22189d" title=" " alt="" coords="163,5,244,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,33,147,26,148,31,106,38"/>
+<area shape="rect" id="Node000003" href="$class_item.html#ae5de463cf65457c0690e7f93a43c5d55" title="Sets the item&#39;s type." alt="" coords="153,56,254,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="106,50,138,55,137,61,105,55"/>
+</map>

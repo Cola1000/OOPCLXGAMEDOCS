@@ -1,0 +1,37 @@
+<map id="include/UISystem/Components/GUI/Base/GUIElement.hpp" name="include/UISystem/Components/GUI/Base/GUIElement.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="334,5,537,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,171,143,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="388,51,118,167,116,162,386,46"/>
+<area shape="rect" id="Node000003" href="$_u_i_element_8hpp.html" title=" " alt="" coords="567,96,770,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="496,46,618,88,617,93,495,51"/>
+<area shape="rect" id="Node000005" href="$_u_i_manager_8hpp.html" title=" " alt="" coords="333,96,538,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="438,49,438,80,433,80,433,49"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="571,320,625,347"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="671,123,666,189,658,231,644,273,622,310,617,307,640,271,653,230,661,188,666,123"/>
+<area shape="poly" id="edge18_Node000005_Node000002" title=" " alt="" coords="373,126,153,170,152,164,371,121"/>
+<area shape="poly" id="edge20_Node000005_Node000004" title=" " alt="" coords="526,121,567,139,585,152,600,169,615,203,619,240,616,275,609,306,604,304,610,275,614,240,610,204,596,172,582,156,564,143,524,126"/>
+<area shape="rect" id="Node000006" href="$_render_type_8hpp.html" title=" " alt="" coords="377,171,494,197"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="438,123,438,155,433,155,433,123"/>
+<area shape="rect" id="Node000007" href="$_event_bus_8hpp.html" title=" " alt="" coords="166,171,352,197"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="406,126,305,167,303,162,404,121"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="517,171,586,197"/>
+<area shape="poly" id="edge19_Node000005_Node000015" title=" " alt="" coords="457,121,519,160,517,164,454,125"/>
+<area shape="poly" id="edge16_Node000007_Node000004" title=" " alt="" coords="354,194,466,214,515,227,549,243,575,272,592,304,587,307,571,275,546,247,513,232,465,219,353,199"/>
+<area shape="rect" id="Node000008" href="$_event_data_8hpp.html" title=" " alt="" coords="242,245,351,272"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="268,197,286,230,281,233,263,199"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="94,320,140,347"/>
+<area shape="poly" id="edge13_Node000007_Node000009" title=" " alt="" coords="179,201,100,220,68,233,50,247,44,263,51,279,65,295,83,309,80,313,61,299,46,282,39,263,45,244,66,228,98,215,178,195"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="364,320,406,347"/>
+<area shape="poly" id="edge17_Node000007_Node000010" title=" " alt="" coords="297,195,333,214,351,228,366,244,380,274,386,304,381,305,375,275,361,247,347,232,330,219,294,200"/>
+<area shape="rect" id="Node000012" href="$_event_type_8hpp.html" title=" " alt="" coords="426,245,535,272"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="299,195,428,237,426,242,297,200"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="59,245,137,272"/>
+<area shape="poly" id="edge14_Node000007_Node000013" title=" " alt="" coords="232,200,141,241,139,236,230,195"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="161,245,219,272"/>
+<area shape="poly" id="edge15_Node000007_Node000014" title=" " alt="" coords="249,200,214,236,211,232,245,196"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="350,270,557,319,556,325,349,275"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="266,275,155,319,153,315,264,270"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="314,270,360,308,356,312,310,275"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="258,320,336,347"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="299,273,299,304,294,304,294,273"/>
+</map>

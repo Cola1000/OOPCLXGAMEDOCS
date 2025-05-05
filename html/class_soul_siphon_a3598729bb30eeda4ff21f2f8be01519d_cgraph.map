@@ -1,0 +1,9 @@
+<map id="SoulSiphon::Activate" name="SoulSiphon::Activate">
+<area shape="rect" id="Node000001" title="activates the skill" alt="" coords="5,56,149,83"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#adf36da7ad8ec2be159c18cb21b74ebeb" title=" " alt="" coords="198,5,308,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,53,189,34,190,39,127,58"/>
+<area shape="rect" id="Node000003" href="$class_r_n_g.html#a838b355f126532ab640f1cf3f561bc42" title="Returns true with the given percentage chance." alt="" coords="203,56,304,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,67,187,67,187,72,149,72"/>
+<area shape="rect" id="Node000004" href="$class_skill.html#a1c86b0fd8802b22ad41e161ee4b9c7af" title="gets the owner of the skill" alt="" coords="197,107,310,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,81,190,99,189,104,126,86"/>
+</map>

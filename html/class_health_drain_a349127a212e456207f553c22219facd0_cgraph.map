@@ -1,0 +1,6 @@
+<map id="HealthDrain::CLONE_METHOD" name="HealthDrain::CLONE_METHOD">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,21,150,64"/>
+<area shape="rect" id="Node000002" href="$class_health_drain.html#a61c478814d82547f30519731b8f49f14" title=" " alt="" coords="198,29,365,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,40,182,40,182,45,150,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="247,30,241,21,245,11,259,5,281,3,306,5,319,12,316,16,304,10,281,8,260,10,249,15,246,20,251,27"/>
+</map>

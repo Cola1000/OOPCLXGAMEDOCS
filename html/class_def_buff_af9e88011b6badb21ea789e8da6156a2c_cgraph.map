@@ -1,0 +1,6 @@
+<map id="DefBuff::CLONE_METHOD" name="DefBuff::CLONE_METHOD">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,190,56"/>
+<area shape="rect" id="Node000002" href="$class_def_buff.html#a62622909de0c97fb1372b1ff815d0ec9" title="default constructor" alt="" coords="238,29,355,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,40,222,40,222,45,190,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="263,30,256,21,261,11,274,5,296,3,320,5,333,12,330,16,319,10,296,8,276,10,264,15,262,20,267,27"/>
+</map>

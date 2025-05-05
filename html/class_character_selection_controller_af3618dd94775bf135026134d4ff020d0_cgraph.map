@@ -1,0 +1,7 @@
+<map id="CharacterSelectionController::CharacterSelectionController" name="CharacterSelectionController::CharacterSelectionController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,202,69"/>
+<area shape="rect" id="Node000002" href="$class_view_factory.html#ae5cc683c943a2d0a81b986944748a8fd" title=" " alt="" coords="273,5,414,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,33,257,26,258,32,203,39"/>
+<area shape="rect" id="Node000003" href="$class_character_selection_controller.html#a0f0732578dc24089a7bdf58f112744e9" title=" " alt="" coords="250,56,438,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,57,234,61,234,67,202,63"/>
+</map>

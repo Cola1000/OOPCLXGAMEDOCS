@@ -1,0 +1,7 @@
+<map id="Chamber::getIsDoubleDungeon" name="Chamber::getIsDoubleDungeon">
+<area shape="rect" id="Node000001" title="Gets the isDoubleDungeon boolean." alt="" coords="269,31,473,57"/>
+<area shape="rect" id="Node000002" href="$class_chamber_boss.html#a36ccd7f5cb5602950a837da80c47b066" title="Ends the chamber and calculates results and rewards." alt="" coords="13,5,213,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,35,213,31,213,26,253,30"/>
+<area shape="rect" id="Node000003" href="$class_chamber_combat.html#aa3a7f36fb86ccd14587e307012fde865" title="Handles chamber result (calculating rewards or penalties)." alt="" coords="5,56,221,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,58,222,61,221,56,253,53"/>
+</map>

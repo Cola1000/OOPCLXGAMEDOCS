@@ -1,0 +1,7 @@
+<map id="HomeBaseCLI::HandleInput" name="HomeBaseCLI::HandleInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,191,57"/>
+<area shape="rect" id="Node000002" href="$class_input_handler.html#a01bcacc07a2d83be2c2eaf52b49dd38e" title=" " alt="" coords="252,5,406,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,31,237,26,237,31,191,36"/>
+<area shape="rect" id="Node000003" href="$class_input_handler.html#af0ba3bc2efdda9709c83898b02ff9c34" title=" " alt="" coords="239,56,419,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,52,223,55,223,60,191,57"/>
+</map>

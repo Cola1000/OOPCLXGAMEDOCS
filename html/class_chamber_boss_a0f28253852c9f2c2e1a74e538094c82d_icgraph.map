@@ -1,0 +1,5 @@
+<map id="ChamberBoss::ChamberBoss" name="ChamberBoss::ChamberBoss">
+<area shape="rect" id="Node000001" title="Default constructor." alt="" coords="221,5,416,32"/>
+<area shape="rect" id="Node000002" href="$class_chamber_boss.html#aabb068077dee82b9008a109db3e3c35a" title="Copy assignment operator." alt="" coords="5,5,173,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,21,173,21,173,16,205,16"/>
+</map>

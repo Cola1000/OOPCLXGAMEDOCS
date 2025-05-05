@@ -1,0 +1,7 @@
+<map id="ProgressBar::ProgressBar" name="ProgressBar::ProgressBar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,179,32"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_element.html#a3656ad55eb49df15dfbd11d78a3d7275" title=" " alt="" coords="227,5,400,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,16,211,16,211,21,179,21"/>
+<area shape="rect" id="Node000003" href="$class_u_i_element.html#a87675df35212845f56e0ec106f2ec79c" title=" " alt="" coords="448,5,601,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,16,433,16,433,21,400,21"/>
+</map>

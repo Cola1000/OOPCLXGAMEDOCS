@@ -1,0 +1,19 @@
+<map id="UIManager::ClearScreen" name="UIManager::ClearScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="322,189,487,216"/>
+<area shape="rect" id="Node000002" href="$class_battle_c_l_i.html#a2fe7f5ca5b82fbec091dd79f015e1718" title=" " alt="" coords="125,5,252,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,177,341,111,309,76,273,46,250,35,253,30,275,42,313,72,345,108,391,174"/>
+<area shape="rect" id="Node000003" href="$class_character_selection_c_l_i.html#a55a81b8f90c9033062ebed87a8750155" title=" " alt="" coords="112,56,265,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="373,181,327,147,273,113,249,102,252,97,275,108,330,143,376,177"/>
+<area shape="rect" id="Node000004" href="$class_dungeon_chamber_c_l_i.html#a55ef093cc9219466c8c84a16a910cd7c" title=" " alt="" coords="111,123,266,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="338,187,266,168,267,162,339,182"/>
+<area shape="rect" id="Node000005" href="$class_dungeon_path_c_l_i.html#ae287f125568cb8e1edbbda0790d2fce2" title=" " alt="" coords="103,189,274,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="306,205,275,205,275,200,306,200"/>
+<area shape="rect" id="Node000006" href="$class_home_base_c_l_i.html#ad32dcfb16dd641f00b408d37a8da90d2" title=" " alt="" coords="110,240,267,267"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="330,223,249,242,248,237,329,218"/>
+<area shape="rect" id="Node000007" href="$class_main_menu_c_l_i.html#a49e92c06ee57bc0f78129eb1d64ca77e" title=" " alt="" coords="112,291,264,317"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="372,227,327,255,275,281,244,293,242,288,273,276,324,250,369,223"/>
+<area shape="rect" id="Node000008" href="$class_game_loop.html#a6d84f749fa38ca86039353245d77461c" title=" " alt="" coords="130,341,246,368"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="386,230,339,281,309,308,275,332,248,344,246,339,273,327,305,304,335,278,382,226"/>
+<area shape="rect" id="Node000009" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,341,55,368"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="115,357,55,357,55,352,115,352"/>
+</map>

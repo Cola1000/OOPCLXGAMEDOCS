@@ -1,0 +1,7 @@
+<map id="DefBuff::OnRemove" name="DefBuff::OnRemove">
+<area shape="rect" id="Node000001" title="removes the buff" alt="" coords="5,31,145,57"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a7a847b1b46a01eedc0830fffdff460a9" title="gets the target of the effect" alt="" coords="194,5,314,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,31,178,27,179,32,145,37"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a451b46f4bcf822cce11b67c552d26e4b" title=" " alt="" coords="193,56,315,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,51,178,56,177,61,145,57"/>
+</map>

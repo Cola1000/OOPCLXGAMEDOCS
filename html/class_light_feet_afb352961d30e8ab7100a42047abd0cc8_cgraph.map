@@ -1,0 +1,9 @@
+<map id="LightFeet::Activate" name="LightFeet::Activate">
+<area shape="rect" id="Node000001" title="activates the light feet skill" alt="" coords="5,56,137,83"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#adf36da7ad8ec2be159c18cb21b74ebeb" title=" " alt="" coords="186,5,296,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,53,179,34,180,39,119,58"/>
+<area shape="rect" id="Node000003" href="$class_skill.html#a1c86b0fd8802b22ad41e161ee4b9c7af" title="gets the owner of the skill" alt="" coords="185,56,298,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,67,169,67,169,72,137,72"/>
+<area shape="rect" id="Node000004" href="$class_skill.html#a64ceb1531ec372146ee77f23305dcf81" title="gets the tier of the skill" alt="" coords="193,107,290,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="119,81,180,99,179,104,118,86"/>
+</map>

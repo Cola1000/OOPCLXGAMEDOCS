@@ -1,0 +1,9 @@
+<map id="Charge::Activate" name="Charge::Activate">
+<area shape="rect" id="Node000001" title="activates the charge skill" alt="" coords="5,56,125,83"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#adf36da7ad8ec2be159c18cb21b74ebeb" title=" " alt="" coords="174,5,284,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,53,168,35,170,40,112,58"/>
+<area shape="rect" id="Node000003" href="$class_skill.html#a1c86b0fd8802b22ad41e161ee4b9c7af" title="gets the owner of the skill" alt="" coords="173,56,286,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,67,157,67,157,72,125,72"/>
+<area shape="rect" id="Node000004" href="$class_skill.html#a64ceb1531ec372146ee77f23305dcf81" title="gets the tier of the skill" alt="" coords="181,107,278,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="112,81,170,99,168,104,110,86"/>
+</map>

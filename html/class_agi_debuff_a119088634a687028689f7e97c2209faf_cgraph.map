@@ -1,0 +1,6 @@
+<map id="AgiDebuff::AgiDebuff" name="AgiDebuff::AgiDebuff">
+<area shape="rect" id="Node000001" title="constructor" alt="" coords="5,29,149,56"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a4dae74244f59936a49847da9217b4126" title="default constructor for effect" alt="" coords="197,29,294,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,40,181,40,181,45,149,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="216,30,211,21,215,11,226,5,245,3,266,5,276,12,274,16,264,10,245,8,228,10,219,15,216,20,221,28"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Item" name="Item">
+<area shape="rect" id="Node000001" title="Base class for all items in the game. Provides common functionality and properties for all item types..." alt="" coords="18,80,65,107"/>
+<area shape="rect" id="Node000002" href="$class_clonable.html" title="abstract base class for clonable objects" alt="" coords="5,5,78,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="44,48,44,80,39,80,39,48"/>
+</map>

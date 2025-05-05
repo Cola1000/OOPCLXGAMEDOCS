@@ -1,0 +1,7 @@
+<map id="Mage::Mage" name="Mage::Mage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,99,32"/>
+<area shape="rect" id="Node000002" href="$class_character.html#adc27bdd255876169bad2ed0bae0cffb5" title=" " alt="" coords="147,5,290,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,16,131,16,131,21,99,21"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="338,5,415,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="290,16,322,16,322,21,290,21"/>
+</map>

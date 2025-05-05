@@ -1,0 +1,13 @@
+<map id="AgiBuff::OnApply" name="AgiBuff::OnApply">
+<area shape="rect" id="Node000001" title="applies the buff" alt="" coords="5,56,127,83"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a7a847b1b46a01eedc0830fffdff460a9" title="gets the target of the effect" alt="" coords="181,5,301,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,53,177,34,178,39,116,58"/>
+<area shape="rect" id="Node000003" href="$class_effect.html#ac6c3fb8a637e397a6fb3517393f2949d" title="notifies the event system that an effect was triggered" alt="" coords="175,56,307,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,67,159,67,159,72,127,72"/>
+<area shape="rect" id="Node000006" href="$class_unit.html#a9f10f01ffdca81a0ac5438b385719367" title=" " alt="" coords="186,107,296,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="116,81,178,99,177,104,114,86"/>
+<area shape="rect" id="Node000004" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="355,31,507,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="307,58,339,54,340,59,308,63"/>
+<area shape="rect" id="Node000005" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="366,81,496,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="308,75,351,81,351,87,307,81"/>
+</map>

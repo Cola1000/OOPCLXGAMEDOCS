@@ -1,0 +1,5 @@
+<map id="Trap::Trap" name="Trap::Trap">
+<area shape="rect" id="Node000001" title="constructor" alt="" coords="5,5,87,32"/>
+<area shape="rect" id="Node000002" href="$class_skill.html#a09c4e7e78e10ea5bc4b4c0af85b4aa0a" title="default constructor" alt="" coords="135,5,214,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,16,119,16,119,21,87,21"/>
+</map>

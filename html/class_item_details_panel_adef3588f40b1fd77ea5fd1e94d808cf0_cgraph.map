@@ -1,0 +1,9 @@
+<map id="ItemDetailsPanel::ItemDetailsPanel" name="ItemDetailsPanel::ItemDetailsPanel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,202,65"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_element.html#a3656ad55eb49df15dfbd11d78a3d7275" title=" " alt="" coords="250,5,423,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,31,233,27,234,32,202,36"/>
+<area shape="rect" id="Node000004" href="$class_u_i_manager.html#a6000b3411cc27261d730c912fd6c58f7" title=" " alt="" coords="265,56,408,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,52,249,57,249,63,202,57"/>
+<area shape="rect" id="Node000003" href="$class_u_i_element.html#a87675df35212845f56e0ec106f2ec79c" title=" " alt="" coords="471,5,624,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,16,456,16,456,21,423,21"/>
+</map>

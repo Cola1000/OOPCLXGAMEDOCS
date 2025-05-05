@@ -1,0 +1,9 @@
+<map id="BaseGUI::Render" name="BaseGUI::Render">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,56,334,83"/>
+<area shape="rect" id="Node000002" href="$class_main_menu_g_u_i.html#a7828a7fe93f410d916ddcaae913d852c" title=" " alt="" coords="5,5,161,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,54,135,35,136,30,205,49"/>
+<area shape="rect" id="Node000003" href="$class_profile_g_u_i.html#a39a28a5b4f687e802086f97e10e1e52b" title=" " alt="" coords="17,56,149,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,72,150,72,150,67,193,67"/>
+<area shape="rect" id="Node000004" href="$class_shop_g_u_i.html#a86228112a4c312b7ba809bd916d35396" title=" " alt="" coords="20,107,146,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,90,136,109,135,103,204,85"/>
+</map>

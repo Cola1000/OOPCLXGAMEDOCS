@@ -1,0 +1,21 @@
+<map id="Unit::operator=" name="Unit::operator=">
+<area shape="rect" id="Node000001" title=" " alt="" coords="405,208,513,235"/>
+<area shape="rect" id="Node000002" href="$class_character.html#a020a6412390cc5375455a77cd27320ca" title=" " alt="" coords="216,132,357,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="412,204,318,162,320,157,414,199"/>
+<area shape="rect" id="Node000008" href="$class_mob.html#ab36db34e133397cd9b8175abd9a85157" title=" " alt="" coords="232,259,341,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="397,242,335,261,334,256,396,237"/>
+<area shape="rect" id="Node000003" href="$class_assassin.html#a4aced26affb95a4e997787585d8c5140" title=" " alt="" coords="17,5,156,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="261,123,219,84,166,46,141,35,143,30,169,42,222,79,264,119"/>
+<area shape="rect" id="Node000004" href="$class_berserker.html#a58d894ffcdff2c0fe6088a3b29c70c34" title=" " alt="" coords="16,56,157,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="240,128,167,97,134,86,135,81,169,92,242,123"/>
+<area shape="rect" id="Node000005" href="$class_guardian.html#a8a5d75bb64ce4281feaa3354ed3533b9" title=" " alt="" coords="18,107,155,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="200,137,154,131,155,126,201,132"/>
+<area shape="rect" id="Node000006" href="$class_mage.html#a113c1655a099a965b75d25a732bd25fd" title=" " alt="" coords="28,157,145,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="201,159,145,166,145,161,200,154"/>
+<area shape="rect" id="Node000007" href="$class_necromancer.html#a594a052b9c3867cfbba19239fb07cf57" title=" " alt="" coords="5,208,168,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="242,168,169,198,135,210,134,205,167,194,240,163"/>
+<area shape="rect" id="Node000009" href="$class_boss_mob.html#a5286a25aca81ad877b40a94cff83533f" title=" " alt="" coords="17,259,156,285"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="216,275,156,275,156,269,216,269"/>
+<area shape="rect" id="Node000010" href="$class_normal_mob.html#a132f51b50781440e3b6c047221442ebe" title=" " alt="" coords="11,309,162,336"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="217,292,143,311,141,306,216,287"/>
+</map>

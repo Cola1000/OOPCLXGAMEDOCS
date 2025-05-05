@@ -1,0 +1,15 @@
+<map id="include/GameObjects/Effects/HealthDrain.hpp" name="include/GameObjects/Effects/HealthDrain.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="195,5,360,48"/>
+<area shape="rect" id="Node000002" href="$_health_absorb_8hpp.html" title=" " alt="" coords="66,96,241,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,59,176,98,173,93,227,55"/>
+<area shape="rect" id="Node000004" href="$_soul_siphon_8cpp.html" title=" " alt="" coords="198,187,357,229"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="280,63,280,186,275,186,275,63"/>
+<area shape="rect" id="Node000005" href="$_effects_database_8cpp.html" title=" " alt="" coords="315,96,483,139"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="319,55,372,93,369,98,316,59"/>
+<area shape="rect" id="Node000006" href="$_health_drain_8cpp.html" title=" " alt="" coords="507,96,675,139"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="366,50,518,93,517,98,365,55"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="201,85,255,46,258,51,204,89"/>
+<area shape="rect" id="Node000003" href="$_health_absorb_8cpp.html" title=" " alt="" coords="5,187,174,229"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="132,153,106,188,102,185,128,150"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="196,146,250,184,247,188,193,150"/>
+</map>

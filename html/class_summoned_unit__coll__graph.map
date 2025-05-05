@@ -1,0 +1,5 @@
+<map id="SummonedUnit" name="SummonedUnit">
+<area shape="rect" id="Node000001" title="A temporary unit created by a Summoner, tied to its owner." alt="" coords="5,80,117,107"/>
+<area shape="rect" id="Node000002" href="$class_unit.html" title=" " alt="" coords="38,5,84,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,48,64,80,58,80,58,48"/>
+</map>

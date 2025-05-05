@@ -1,0 +1,7 @@
+<map id="TextureButton::handleEvent" name="TextureButton::handleEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,188,32"/>
+<area shape="rect" id="Node000002" href="$class_button.html#a346c121ea62cebf10a2a24914a3aa2e4" title=" " alt="" coords="236,5,375,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,16,220,16,220,21,188,21"/>
+<area shape="rect" id="Node000003" href="$class_g_u_i_element.html#abac6b13bb0735a65e6f26540088f5704" title=" " alt="" coords="423,5,599,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,16,407,16,407,21,375,21"/>
+</map>

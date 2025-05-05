@@ -1,0 +1,7 @@
+<map id="ItemSlot::setOutlineToDefault" name="ItemSlot::setOutlineToDefault">
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,31,397,57"/>
+<area shape="rect" id="Node000002" href="$class_item_slot.html#a0623e0178039574604e6467158742cd5" title=" " alt="" coords="14,5,147,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,34,147,29,148,24,188,28"/>
+<area shape="rect" id="Node000003" href="$class_item_slot.html#a69fbe4166e5b88b92fdf3d8ca121113f" title=" " alt="" coords="5,56,156,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,60,157,63,156,58,188,54"/>
+</map>

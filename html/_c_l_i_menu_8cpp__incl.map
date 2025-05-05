@@ -1,0 +1,15 @@
+<map id="src/UISystem/Components/CLI/CLIMenu.cpp" name="src/UISystem/Components/CLI/CLIMenu.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,5,397,48"/>
+<area shape="rect" id="Node000002" href="$_c_l_i_menu_8hpp.html" title=" " alt="" coords="228,96,386,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="310,48,310,81,304,81,304,48"/>
+<area shape="rect" id="Node000003" href="$_u_i_element_8hpp.html" title=" " alt="" coords="5,187,209,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,142,154,183,152,178,255,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="233,187,290,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="298,141,279,174,274,172,293,138"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="315,187,392,213"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="321,138,341,172,336,174,317,141"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="417,187,488,213"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="346,137,417,176,415,181,343,142"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="80,261,134,288"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,214,110,246,104,246,104,214"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="Unit::Attack" name="Unit::Attack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,97,229"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#adba706a3136a7af50ad13a6d67493b9f" title=" " alt="" coords="613,25,788,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,201,65,172,83,135,109,98,143,69,202,40,265,21,330,9,396,4,459,3,519,7,621,20,620,25,519,12,459,9,396,9,331,14,267,26,204,45,146,73,113,102,87,138,69,174,59,203"/>
+<area shape="rect" id="Node000004" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="911,127,988,153"/>
+<area shape="poly" id="edge17_Node000001_Node000004" title=" " alt="" coords="71,200,104,180,144,163,241,134,325,114,400,101,471,94,543,93,620,96,808,112,897,126,896,131,807,117,619,102,543,98,472,99,401,106,326,119,243,139,146,168,106,185,74,205"/>
+<area shape="rect" id="Node000005" href="$class_unit.html#af291a55cdf4cf9995abe01ef86219ced" title=" " alt="" coords="145,228,340,255"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="97,220,130,224,129,229,97,225"/>
+<area shape="rect" id="Node000006" href="$class_unit.html#a018e8df6fa21f38cf07ab829a30a7075" title=" " alt="" coords="151,279,334,305"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="75,228,108,246,146,264,166,272,164,277,144,269,105,251,73,232"/>
+<area shape="rect" id="Node000008" href="$class_unit.html#af48c4b1b6db8cd7c9f70702bd7dbbf6a" title=" " alt="" coords="161,329,324,356"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="63,228,96,272,120,295,146,315,156,321,154,325,143,320,116,299,92,275,59,232"/>
+<area shape="rect" id="Node000009" href="$class_unit.html#a59d67d73af9f009652b706b9c2103eef" title=" " alt="" coords="177,177,308,204"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="97,208,161,199,162,204,97,213"/>
+<area shape="rect" id="Node000003" href="$class_unit.html#a680ab289c9cb28dd0cd8153b35f3c638" title=" " alt="" coords="856,51,1044,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="789,45,840,50,840,56,789,50"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="755,50,809,68,911,117,909,122,807,73,753,55"/>
+<area shape="rect" id="Node000007" href="$class_unit.html#aac7f7ad149f0ebfd24dc6241f7de40ad" title=" " alt="" coords="415,329,518,356"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="305,304,400,325,399,330,304,309"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="324,340,399,340,399,345,324,345"/>
+<area shape="poly" id="edge16_Node000009_Node000004" title=" " alt="" coords="308,202,388,214,507,222,599,221,691,210,807,187,856,173,901,157,903,162,858,178,808,192,692,216,599,227,506,227,388,219,308,207"/>
+<area shape="rect" id="Node000010" href="$class_unit.html#a8281a6dc8da932bf8b5a817016a53a1b" title=" " alt="" coords="388,279,545,305"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="309,201,341,214,357,225,366,236,376,247,389,258,412,270,409,275,387,262,372,251,362,239,353,229,339,218,307,206"/>
+<area shape="rect" id="Node000011" href="$class_unit.html#a8f5cdf29b6fa2fdd14b81febaa29ca5e" title=" " alt="" coords="388,177,545,204"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="308,188,373,188,373,193,308,193"/>
+<area shape="poly" id="edge15_Node000011_Node000004" title=" " alt="" coords="545,185,669,177,807,163,896,148,897,154,808,168,669,182,546,190"/>
+<area shape="rect" id="Node000012" href="$class_unit.html#a25f397a83d728389d66eb251eaec9f69" title=" " alt="" coords="593,127,808,153"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="531,174,620,155,621,160,532,179"/>
+<area shape="poly" id="edge13_Node000012_Node000003" title=" " alt="" coords="746,124,888,80,890,85,748,129"/>
+<area shape="poly" id="edge14_Node000012_Node000004" title=" " alt="" coords="808,137,896,137,896,143,808,143"/>
+</map>

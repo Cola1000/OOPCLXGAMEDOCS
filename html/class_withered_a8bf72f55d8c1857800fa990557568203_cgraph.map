@@ -1,0 +1,27 @@
+<map id="Withered::OnTurnStart" name="Withered::OnTurnStart">
+<area shape="rect" id="Node000001" title="method that is called when the turn of the effect&#39;s target starts" alt="" coords="5,81,158,108"/>
+<area shape="rect" id="Node000002" href="$class_effect.html#a7a847b1b46a01eedc0830fffdff460a9" title="gets the target of the effect" alt="" coords="220,5,340,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,78,205,42,222,35,224,40,207,46,116,83"/>
+<area shape="rect" id="Node000003" href="$class_effect.html#ac6c3fb8a637e397a6fb3517393f2949d" title="notifies the event system that an effect was triggered" alt="" coords="214,56,346,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,82,198,77,199,82,158,88"/>
+<area shape="rect" id="Node000006" href="$class_unit.html#ae1c3322365fce9a04ddd703347e491b5" title=" " alt="" coords="206,107,354,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="158,102,191,106,190,111,158,107"/>
+<area shape="rect" id="Node000007" href="$class_unit.html#a59d67d73af9f009652b706b9c2103eef" title=" " alt="" coords="215,157,345,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="116,106,207,143,224,149,222,154,205,148,114,111"/>
+<area shape="rect" id="Node000004" href="$class_event_data.html#ab0ba4622b806b8cfe1f77f68920ee43c" title=" " alt="" coords="404,5,557,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="335,53,409,34,411,39,337,58"/>
+<area shape="rect" id="Node000005" href="$class_event_bus.html#a72309644284684b3eceafd9182494aa7" title=" " alt="" coords="416,56,545,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="347,67,401,67,401,72,347,72"/>
+<area shape="rect" id="Node000008" href="$class_unit.html#a8281a6dc8da932bf8b5a817016a53a1b" title=" " alt="" coords="402,107,559,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="335,154,409,135,411,140,337,159"/>
+<area shape="rect" id="Node000009" href="$class_unit.html#a8f5cdf29b6fa2fdd14b81febaa29ca5e" title=" " alt="" coords="402,157,559,184"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="346,168,387,168,387,173,346,173"/>
+<area shape="rect" id="Node000012" href="$class_unit.html#a8e46f663a95736c8002d85ab271a7581" title=" " alt="" coords="925,157,1002,184"/>
+<area shape="poly" id="edge13_Node000007_Node000012" title=" " alt="" coords="336,182,402,193,546,201,689,197,815,187,910,176,910,181,815,192,689,202,546,206,402,199,335,187"/>
+<area shape="rect" id="Node000010" href="$class_unit.html#a25f397a83d728389d66eb251eaec9f69" title=" " alt="" coords="607,107,822,133"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="545,154,634,135,635,140,546,159"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="559,168,910,168,910,173,559,173"/>
+<area shape="rect" id="Node000011" href="$class_unit.html#a680ab289c9cb28dd0cd8153b35f3c638" title=" " alt="" coords="870,107,1058,133"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="822,117,854,117,854,123,822,123"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="784,131,910,157,909,162,783,137"/>
+</map>

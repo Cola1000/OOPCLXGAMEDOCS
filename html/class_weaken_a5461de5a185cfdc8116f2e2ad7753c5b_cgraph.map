@@ -1,0 +1,7 @@
+<map id="Weaken::Activate" name="Weaken::Activate">
+<area shape="rect" id="Node000001" title="activates the weaken skill" alt="" coords="5,31,130,57"/>
+<area shape="rect" id="Node000002" href="$class_unit.html#adf36da7ad8ec2be159c18cb21b74ebeb" title=" " alt="" coords="178,5,288,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,32,162,27,163,32,131,37"/>
+<area shape="rect" id="Node000003" href="$class_skill.html#a64ceb1531ec372146ee77f23305dcf81" title="gets the tier of the skill" alt="" coords="184,56,282,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,51,169,57,168,62,130,56"/>
+</map>

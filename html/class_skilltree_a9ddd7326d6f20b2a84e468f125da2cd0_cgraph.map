@@ -1,0 +1,5 @@
+<map id="Skilltree::Skilltree" name="Skilltree::Skilltree">
+<area shape="rect" id="Node000001" title="copy constructor (should not be invoked)" alt="" coords="5,5,129,32"/>
+<area shape="rect" id="Node000002" href="$class_skilltree.html#a4d596b5095fc60f53d2de79ec1d13e27" title="default constructor" alt="" coords="177,5,300,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,16,161,16,161,21,129,21"/>
+</map>
